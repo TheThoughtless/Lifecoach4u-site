@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 137.76271 137.76271"
+   version="1.1"
+   sodipodi:docname="coaching - vinkje.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   inkscape:export-filename="C:\Users\Gebruiker\Dropbox\svg\coaching-vinkje.png"
+   inkscape:export-xdpi="614.58002"
+   inkscape:export-ydpi="614.58002"
+   width="137.76271"
+   height="137.76271">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>n</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="30.401746"
+     inkscape:cy="59.359102"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#1d75b8;}.cls-2{fill:#2d3e50;}</style>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5375"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect5377"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="0.085570175"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <style
+       id="style5305"
+       type="text/css"><![CDATA[
+    .fil2 {fill:#FEFEFE}
+    .fil0 {fill:#E31E24}
+    .fil3 {fill:#009846}
+    .fil1 {fill:#2B2A29;fill-opacity:0.101961}
+   ]]></style>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5375-5"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect5377-5"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="0.085570175"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+  </defs>
+  <title
+     id="title6">n</title>
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#008080;stroke-width:8.15479088;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+     id="path7099"
+     cx="68.881355"
+     cy="-68.881355"
+     r="47.254917"
+     transform="scale(1,-1)" />
+  <path
+     id="path833"
+     style="fill:#52b981;fill-opacity:1;stroke:#ffffff;stroke-width:0.0947187"
+     inkscape:transform-center-x="0.024479306"
+     inkscape:transform-center-y="2.7655781"
+     d="m 96.264954,40.267037 c 0,0 -2.647229,0.101725 -9.573988,7.462307 -3.242599,3.445675 -8.169458,10.306693 -12.225668,20.242414 -4.056198,9.93574 -7.057093,22.841765 -7.057093,22.841765 0,0 -1.963439,-6.295926 -8.233016,-13.170602 -4.574662,-5.016199 -6.169513,-6.743609 -9.977088,-8.908452 -9.025821,-5.131777 -11.850066,-4.029916 -11.850066,-4.029916 0,0 9.821435,8.245832 15.360163,14.838206 5.538736,6.592384 17.149302,25.072521 17.149302,25.072521 0,0 7.085669,-23.303618 11.408437,-34.099045 4.322779,-10.795426 14.999017,-30.249198 14.999017,-30.249198 z"
+     sodipodi:nodetypes="cszcssczczc" />
+</svg>

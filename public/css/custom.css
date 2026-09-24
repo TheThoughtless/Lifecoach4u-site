@@ -1,0 +1,30 @@
+[data-theme="dark"] .content-section {
+	background-color : var(--dark-bg);
+}
+[data-theme="light"] .content-section {
+	background-color : var(--light-bg);
+}
+
+h1, h2, h3 {
+	text-transform: uppercase;
+}
+
+h2, h3 {
+	color:#008080 !important;
+}
+
+body {
+	font-family : 'Open Sans'
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif !important;
+}
+/* Verberg de post datum in Beautiful Hugo */
+.post-meta, .post-date {
+    display: none !important;
+}
+p.credits {
+	font-family: Oswald, sans-serif !important;
+	font-size: 11px !important;
+}

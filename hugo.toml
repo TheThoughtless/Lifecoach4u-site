@@ -1,0 +1,59 @@
+baseURL = 'https://www.lifecoach4u.nl/'
+languageCode = 'nl'
+title = 'Lifecoach4u'
+theme = 'beautifulhugo'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+[module.hugoVersion]
+      
+[Params]
+  toc = false
+  subtitle = 'persoonlijke coaching in de Krimpenerwaard'
+  logo = '/images/Selfie1.png'
+  showPageDates = false
+  hideAuthor = true
+  hidePostDates = true
+
+  [Params.author]
+      name = "Johan Verrips"
+      website = "lifecoach4u.nl"
+      email = "info@lifecoach4u.nl" 
+
+[[Params.bigimg]]
+  src = "/images/banner-weg cropped.jpg"
+  desc = "De weg door het leven"
+  headerImgStyle = "narrow"
+
+
+[[menus.main]]
+  name = "Wat is coaching?"
+  url = "/wat is coaching"
+  weight = 1
+[[menus.main]]
+  name = "Wie ben ik?"
+  url = "/wie ben ik"
+  weight = 2
+[[menus.main]]
+  name = "Mijn aanpak"
+  url = "/mijn aanpak"
+  weight = 3
+[[menus.main]]
+  name = "Referenties"
+  url = "/referenties"
+  weight = 3
+
+[[menus.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 4
+[[menus.main]]
+  name = "Tips en Tools"
+  url = "/tips en tools"
+  weight = 5
+
+
+
+
+
