@@ -3,11 +3,15 @@
 languageCode = 'nl'
 title = 'Lifecoach4u'
 theme = 'beautifulhugo'
+<<<<<<< HEAD
 
 [services]
   [services.googleAnalytics]
     id = 'G-9PTWJ10NPR'
 
+=======
+relativeURLs = true
+>>>>>>> 223ff7a9cd4b00c403f8a6d87f561e53f5188df0
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
