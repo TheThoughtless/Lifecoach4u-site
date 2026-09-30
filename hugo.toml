@@ -1,4 +1,5 @@
-baseURL = 'https://www.lifecoach4u.nl/'
+#baseURL = 'https://www.lifecoach4u.nl/'
+#baseURL = 'https://thethoughtless.github.io/Lifecoach4u-site'
 languageCode = 'nl'
 title = 'Lifecoach4u'
 theme = 'beautifulhugo'

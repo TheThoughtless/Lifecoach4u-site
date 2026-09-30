@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Lifecoach4u | Persoonlijke coaching in de Krimpenerwaard on Lifecoach4u</title>
-		<link>http://localhost:1313/</link>
+		<link>/</link>
 		<description>Recent content in Lifecoach4u | Persoonlijke coaching in de Krimpenerwaard on Lifecoach4u</description>
 		<generator>Hugo</generator>
 		<language>nl</language>
@@ -16,76 +16,76 @@
 		
 			<lastBuildDate>Mon, 21 Sep 2026 17:54:17 +0200</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Contact</title>
-				<link>http://localhost:1313/contact/</link>
+				<link>/contact/</link>
 				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/contact/</guid>
-				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/coaching%20-%20contact%20opnemen.svg&#34; alt=&#34;coaching aanpak&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;Wil je eens vrijblijvend over de mogelijkheden van coaching praten of een afspraak maken? Neem dan contact met mij op.&lt;/p&gt;&#xA;&lt;p&gt;Je kunt me bereiken op: 06-41467623 via &lt;a href=&#34;mailto:info@lifecoach4u.nl&#34;&gt;email&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ik hanteer de &lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fwww.nobco.nl%2Fdownload%2Fnobco-internationale-ethische-code&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AOvVaw1P6LD6b7J6pVKhNu-xNxQF&#34;&gt;NOBCO - Internationale Ethische Code&lt;/a&gt; voor coaches. Dit betekent onder meer dat alles wat we bespreken tussen ons blijft.&lt;/p&gt;&#xA;&lt;p&gt;KvK: 86318020&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+				<guid>/contact/</guid>
+				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;/images/coaching%20-%20contact%20opnemen.svg&#34; alt=&#34;coaching aanpak&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;h1 id=&#34;contact&#34;&gt;Contact&lt;/h1&gt;&#xA;&lt;p&gt;Wil je eens vrijblijvend over de mogelijkheden van coaching praten of een afspraak maken? Neem dan contact met mij op.&lt;/p&gt;&#xA;&lt;p&gt;Je kunt me bereiken op: 06-41467623 via &lt;a href=&#34;mailto:info@lifecoach4u.nl&#34;&gt;email&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Ik hanteer de &lt;a href=&#34;https://www.google.com/url?q=https%3A%2F%2Fwww.nobco.nl%2Fdownload%2Fnobco-internationale-ethische-code&amp;amp;sa=D&amp;amp;sntz=1&amp;amp;usg=AOvVaw1P6LD6b7J6pVKhNu-xNxQF&#34;&gt;NOBCO - Internationale Ethische Code&lt;/a&gt; voor coaches. Dit betekent onder meer dat alles wat we bespreken tussen ons blijft.&lt;/p&gt;&#xA;&lt;p&gt;KvK: 86318020&lt;/p&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
 			</item>
 			<item>
 				<title>De moodmeter</title>
-				<link>http://localhost:1313/tips-en-tools/mood-meter/</link>
+				<link>/tips-en-tools/mood-meter/</link>
 				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/tips-en-tools/mood-meter/</guid>
+				<guid>/tips-en-tools/mood-meter/</guid>
 				<description>Hoe voel je je eigenlijk? Met deze tool kun je dat beter benoemen</description>
 			</item>
 			<item>
 				<title>Doelen halen - hoe doe je dat?</title>
-				<link>http://localhost:1313/tips-en-tools/doelen-halen/</link>
+				<link>/tips-en-tools/doelen-halen/</link>
 				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/tips-en-tools/doelen-halen/</guid>
+				<guid>/tips-en-tools/doelen-halen/</guid>
 				<description>We kennen het allemaal: je hebt je iets in je hoofd gehaald: je wilt afvallen, eens wat vaker een familielid bellen, dat soort dingen. Het begint goed: de eerste week lukt het, de tweede ook, de derde was je het vergeten en na een maand ken je het hele doel niet meer. Hoe kan dat toch?</description>
 			</item>
 			<item>
 				<title>Kan waar je goed in bent ook een valkuil zijn?</title>
-				<link>http://localhost:1313/tips-en-tools/kernkwaliteiten/</link>
+				<link>/tips-en-tools/kernkwaliteiten/</link>
 				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/tips-en-tools/kernkwaliteiten/</guid>
+				<guid>/tips-en-tools/kernkwaliteiten/</guid>
 				<description>Waar ben jij goed in? Wat past van nature bij je? En wat als je daar te ver in gaat? Lees hier!</description>
 			</item>
 			<item>
 				<title>Mijn aanpak</title>
-				<link>http://localhost:1313/mijn-aanpak/</link>
+				<link>/mijn-aanpak/</link>
 				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/mijn-aanpak/</guid>
-				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/coaching%20-%20Doel.svg&#34; alt=&#34;coaching aanpak&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;h1 id=&#34;mijn-coaching-aanpak&#34;&gt;Mijn coaching aanpak&lt;/h1&gt;&#xA;&lt;p&gt;Jij hebt werk- of levensvragen en de wil daar iets mee te doen. Dat vraagt om een heldere aanpak. Die aanpak bestaat uit jou drijfveren, kwaliteiten en mogelijkheden inzetten om je probleem te begrijpen en aan te pakken. We bespreken samen welke doelgerichte acties je kunt nemen om verder te komen en we evalueren telkens hoe dat is gegaan. Ik kom beslagen ten ijs door training en ervaring. Jij merkt vooral dat je elke keer meer zicht krijgt op wat jou bezig houdt, en hoe je met je coachvraag aan de slag kunt. Je zult merken dat je genoeg invulling en inhoud krijgt om na het coachingstraject zelfstandig verder te gaan.&lt;/p&gt;</description>
+				<guid>/mijn-aanpak/</guid>
+				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;/images/coaching%20-%20Doel.svg&#34; alt=&#34;coaching aanpak&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;h1 id=&#34;mijn-coaching-aanpak&#34;&gt;Mijn coaching aanpak&lt;/h1&gt;&#xA;&lt;p&gt;Jij hebt werk- of levensvragen en de wil daar iets mee te doen. Dat vraagt om een heldere aanpak. Die aanpak bestaat uit jou drijfveren, kwaliteiten en mogelijkheden inzetten om je probleem te begrijpen en aan te pakken. We bespreken samen welke doelgerichte acties je kunt nemen om verder te komen en we evalueren telkens hoe dat is gegaan. Ik kom beslagen ten ijs door training en ervaring. Jij merkt vooral dat je elke keer meer zicht krijgt op wat jou bezig houdt, en hoe je met je coachvraag aan de slag kunt. Je zult merken dat je genoeg invulling en inhoud krijgt om na het coachingstraject zelfstandig verder te gaan.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Referenties</title>
-				<link>http://localhost:1313/referenties/</link>
+				<link>/referenties/</link>
 				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/referenties/</guid>
-				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/coaching%20-%20shout.svg&#34; alt=&#34;Referenties&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;h2 id=&#34;wat-zeggen-klanten-over-mij&#34;&gt;Wat zeggen klanten over mij?&lt;/h2&gt;&#xA;&lt;p&gt;Aan het einde van een coachtraject vraag ik de coachee altijd om feedback op de manier van coachen en om een &amp;ldquo;quote&amp;rdquo; voor op de website. Hier vind je (alle) teksten die zijn aangeleverd. &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Johan is een prettige, luisterende en geïnteresseerde persoon. Doordat Johan de juiste vragen stelde en een passend aanbod had op mijn vraagstukken heb ik met behulp van Johan nieuwe leerzame inzichten opgedaan.&lt;/em&gt;&lt;/p&gt;</description>
+				<guid>/referenties/</guid>
+				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;/images/coaching%20-%20shout.svg&#34; alt=&#34;Referenties&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;h2 id=&#34;wat-zeggen-klanten-over-mij&#34;&gt;Wat zeggen klanten over mij?&lt;/h2&gt;&#xA;&lt;p&gt;Aan het einde van een coachtraject vraag ik de coachee altijd om feedback op de manier van coachen en om een &amp;ldquo;quote&amp;rdquo; voor op de website. Hier vind je (alle) teksten die zijn aangeleverd. &lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Johan is een prettige, luisterende en geïnteresseerde persoon. Doordat Johan de juiste vragen stelde en een passend aanbod had op mijn vraagstukken heb ik met behulp van Johan nieuwe leerzame inzichten opgedaan.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Waarom loopt een gesprek soms zo verkeerd</title>
-				<link>http://localhost:1313/tips-en-tools/roos--van-leary/</link>
+				<link>/tips-en-tools/roos--van-leary/</link>
 				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/tips-en-tools/roos--van-leary/</guid>
+				<guid>/tips-en-tools/roos--van-leary/</guid>
 				<description>Je voelde je ondergesneeuwd of de ander ging juist helemaal achterover zitten met een houding van &amp;ldquo;laat maar gaan&amp;rdquo;. Hoe kan dat? Timothy Leary heeft daar onderzoek naar gedaan, al in 1957.  Hij stelde vast dat gedrag gedrag oproept, het is actie-reactie. Lees hier!</description>
 			</item>
 			<item>
 				<title>Wat is coaching?</title>
-				<link>http://localhost:1313/wat-is-coaching/</link>
+				<link>/wat-is-coaching/</link>
 				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/wat-is-coaching/</guid>
-				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/coaching%20-%20definitie.svg&#34; alt=&#34;de definitie van coaching&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;h2 id=&#34;wat-houdt-coaching-in&#34;&gt;Wat houdt coaching in?&lt;/h2&gt;&#xA;&lt;p&gt;Het &lt;a href=&#34;https://www.nobco.nl/over-nobco/beleid-nobco&#34;&gt;NOBCO&lt;/a&gt; definieert coaching als:  Coaching is een gestructureerd en doelgericht proces, waarbij de coach op interactieve wijze de gecoachte aanzet tot effectief gedrag door:&lt;/p&gt;&#xA;&lt;p&gt;1. Bewustwording en persoonlijke groei;&lt;/p&gt;&#xA;&lt;p&gt;2. Het vergroten van zelfvertrouwen;&lt;/p&gt;&#xA;&lt;p&gt;3. Het exploreren, ontwikkelen en toepassen van eigen mogelijkheden .&lt;/p&gt;&#xA;&lt;p&gt;Coaching richt zich dus op je kwaliteiten en mogelijkheden, je eigen kracht, en hoe je die kunt inzetten om je gewenste verandering te behalen. Dat klinkt eenvoudig, maar het is vaak een ontdekkingstocht om te leren wát je kwaliteiten zijn, wat je belemmert en hoe je dat allemaal ten goede kunt aanwenden.  Tijdens de coaching proberen we de antwoorden in jezelf te vinden.&lt;/p&gt;</description>
+				<guid>/wat-is-coaching/</guid>
+				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;/images/coaching%20-%20definitie.svg&#34; alt=&#34;de definitie van coaching&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;h2 id=&#34;wat-houdt-coaching-in&#34;&gt;Wat houdt coaching in?&lt;/h2&gt;&#xA;&lt;p&gt;Het &lt;a href=&#34;https://www.nobco.nl/over-nobco/beleid-nobco&#34;&gt;NOBCO&lt;/a&gt; definieert coaching als:  Coaching is een gestructureerd en doelgericht proces, waarbij de coach op interactieve wijze de gecoachte aanzet tot effectief gedrag door:&lt;/p&gt;&#xA;&lt;p&gt;1. Bewustwording en persoonlijke groei;&lt;/p&gt;&#xA;&lt;p&gt;2. Het vergroten van zelfvertrouwen;&lt;/p&gt;&#xA;&lt;p&gt;3. Het exploreren, ontwikkelen en toepassen van eigen mogelijkheden .&lt;/p&gt;&#xA;&lt;p&gt;Coaching richt zich dus op je kwaliteiten en mogelijkheden, je eigen kracht, en hoe je die kunt inzetten om je gewenste verandering te behalen. Dat klinkt eenvoudig, maar het is vaak een ontdekkingstocht om te leren wát je kwaliteiten zijn, wat je belemmert en hoe je dat allemaal ten goede kunt aanwenden.  Tijdens de coaching proberen we de antwoorden in jezelf te vinden.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Wat voor type ben je?</title>
-				<link>http://localhost:1313/tips-en-tools/enneagram/</link>
+				<link>/tips-en-tools/enneagram/</link>
 				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/tips-en-tools/enneagram/</guid>
+				<guid>/tips-en-tools/enneagram/</guid>
 				<description>Wie ben je nu eigenlijk? En wat doet dat er toe? In dit artikel kijken we wat het enneagram je kunt brengen</description>
 			</item>
 			<item>
 				<title>Wie ben ik?</title>
-				<link>http://localhost:1313/wie-ben-ik/</link>
+				<link>/wie-ben-ik/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
-				<guid>http://localhost:1313/wie-ben-ik/</guid>
-				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/Selfie1.png&#34; alt=&#34;Dit ben ik&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;p&gt;Mijn naam is Johan Verrips en woon in Lekkerkerk. Met 59 jaar, een nieuw huwelijk, en vader van twee prachtige kinderen heb ik de nodige levenservaring opgebouwd. Naast een baan in de IT besteed ik zoveel mogelijk tijd aan mijn passie om mensen hun eigen kracht te laten ontdekken.  Ik heb diverse opleidingen op het gebied van persoonlijke effectiviteit, communicatie en coaching en vind het geweldig daar anderen mee verder te helpen.&lt;/p&gt;</description>
+				<guid>/wie-ben-ik/</guid>
+				<description>&lt;div class=&#34;split-block&#34;&gt;&#xA;  &lt;div class=&#34;split-block__image&#34;&gt;&#xA;    &lt;img src=&#34;/images/Selfie1.png&#34; alt=&#34;Dit ben ik&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;split-block__content&#34;&gt;&#xA;&lt;p&gt;Mijn naam is Johan Verrips en woon in Lekkerkerk. Met 59 jaar, een nieuw huwelijk, en vader van twee prachtige kinderen heb ik de nodige levenservaring opgebouwd. Naast een baan in de IT besteed ik zoveel mogelijk tijd aan mijn passie om mensen hun eigen kracht te laten ontdekken.  Ik heb diverse opleidingen op het gebied van persoonlijke effectiviteit, communicatie en coaching en vind het geweldig daar anderen mee verder te helpen.&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>

@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tips-en-tools/mood-meter/</loc>
+    <loc>/tips-en-tools/mood-meter/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tips-en-tools/doelen-halen/</loc>
+    <loc>/tips-en-tools/doelen-halen/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tips-en-tools/kernkwaliteiten/</loc>
+    <loc>/tips-en-tools/kernkwaliteiten/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/mijn-aanpak/</loc>
+    <loc>/mijn-aanpak/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/referenties/</loc>
+    <loc>/referenties/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tips-en-tools/</loc>
+    <loc>/tips-en-tools/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tips-en-tools/roos--van-leary/</loc>
+    <loc>/tips-en-tools/roos--van-leary/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/wat-is-coaching/</loc>
+    <loc>/wat-is-coaching/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tips-en-tools/enneagram/</loc>
+    <loc>/tips-en-tools/enneagram/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/wie-ben-ik/</loc>
+    <loc>/wie-ben-ik/</loc>
   </url>
 </urlset>
