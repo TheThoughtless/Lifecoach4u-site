@@ -28,3 +28,19 @@ p.credits {
 	font-family: Oswald, sans-serif !important;
 	font-size: 11px !important;
 }
+footer {
+    padding-top: 20px  !important;
+}
+[data-theme="light"] .navbar-brand table tr td{
+    border: none;
+    padding: 0px;
+    background-color: #F5F5F5 !important;
+}
+[data-theme="dark"] .navbar table tr td {
+    border:none;
+	padding:0px;
+    background-color: #505050 !important;	
+}
+.navbar table tr  {
+    border:none;
+}

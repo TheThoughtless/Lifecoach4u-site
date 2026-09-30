@@ -2,6 +2,11 @@ baseURL = 'https://www.lifecoach4u.nl/'
 languageCode = 'nl'
 title = 'Lifecoach4u'
 theme = 'beautifulhugo'
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-9PTWJ10NPR'
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -15,6 +20,7 @@ theme = 'beautifulhugo'
   showPageDates = false
   hideAuthor = true
   hidePostDates = true
+  relativeURLs = true
 
   [Params.author]
       name = "Johan Verrips"
@@ -22,7 +28,8 @@ theme = 'beautifulhugo'
       email = "info@lifecoach4u.nl" 
 
 [[Params.bigimg]]
-  src = "/images/banner-weg cropped.jpg"
+  #src = "/images/banner-weg cropped.jpg"
+  src='/images/tiendweg banner.jpg'
   desc = "De weg door het leven"
   headerImgStyle = "narrow"
 

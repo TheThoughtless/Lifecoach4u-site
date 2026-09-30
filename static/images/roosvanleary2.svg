@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="207.44598mm"
+   height="208.10649mm"
+   viewBox="0 0 207.44598 208.10649"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="roosvanleary2.svg"
+   inkscape:export-filename="roosvanleary2.png"
+   inkscape:export-xdpi="61.220757"
+   inkscape:export-ydpi="61.220757"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="99.407738"
+       y="31.75"
+       width="96.761902"
+       height="14.741071"
+       id="rect1835" />
+    <rect
+       x="71.059525"
+       y="44.223213"
+       width="138.33929"
+       height="15.119047"
+       id="rect917" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5375"
+       is_visible="true"
+       lpeversion="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect5377"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 Z"
+       copytype="single_stretched"
+       prop_scale="0.085570175"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0"
+       lpeversion="0"
+       hide_knot="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4918"
+       id="linearGradient5208"
+       gradientUnits="userSpaceOnUse"
+       x1="56.336597"
+       y1="125.01218"
+       x2="44.424927"
+       y2="102.62836"
+       gradientTransform="translate(35.71875,-0.42522322)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4918">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.325"
+         offset="0"
+         id="stop4914" />
+      <stop
+         id="stop4922"
+         offset="0.50350207"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.157"
+         offset="1"
+         id="stop4916" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5048"
+       x="-0.074153778"
+       width="1.1483076"
+       y="-0.047088221"
+       height="1.0941764">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.51349483"
+         id="feGaussianBlur5050" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4918"
+       id="linearGradient5210"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.75305198,0.41558535,-0.41558535,-0.75305198,185.13774,167.46521)"
+       x1="56.336597"
+       y1="125.01218"
+       x2="44.424927"
+       y2="102.62836" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter5116"
+       x="-0.053829506"
+       width="1.107659"
+       y="-0.064781792"
+       height="1.1295636">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.45796466"
+         id="feGaussianBlur5118" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="420.22346"
+     inkscape:cy="407.09148"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     fit-margin-top="5"
+     lock-margins="true"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.62152184,-59.574939)">
+    <path
+       style="fill:#9dd7b7;fill-opacity:1;stroke-width:3.71654"
+       d="M 526.12695,768.66797 A 205.71428,205.71428 0 0 1 396.42773,821.27734 V 952.76562 A 337.14284,337.14284 0 0 0 619.14258,861.68359 Z"
+       transform="scale(0.26458333)"
+       id="path1814"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#ffe061;fill-opacity:1;stroke-width:3.71654"
+       d="M 380.71484,638.96875 158,861.68359 a 337.14284,337.14284 0 0 0 222.71484,91.08008 z"
+       transform="scale(0.26458333)"
+       id="path1812"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#9dd7b7;fill-opacity:1;stroke-width:3.71654"
+       d="M 593.92578,627.85742 A 205.71428,205.71428 0 0 1 537.4043,757.7207 l 92.95117,92.95118 a 337.14284,337.14284 0 0 0 95.14062,-222.81446 z"
+       transform="scale(0.26458333)"
+       id="path1810"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#ffe061;fill-opacity:1;stroke-width:3.71654"
+       d="M 51.648438,627.85742 A 337.14284,337.14284 0 0 0 146.78711,850.67188 L 369.60156,627.85742 Z"
+       transform="scale(0.26458333)"
+       id="path1808"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#78aeff;fill-opacity:1;stroke-width:3.71654"
+       d="m 634.54102,385.14258 -227,227 h 318.15429 a 337.14284,337.14284 0 0 0 -91.15429,-227 z"
+       transform="scale(0.26458333)"
+       id="path1806"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#ff6ea8;fill-opacity:1;stroke-width:3.71654"
+       d="m 142.60156,385.14258 a 337.14284,337.14284 0 0 0 -91.152341,227 H 369.60156 Z"
+       transform="scale(0.26458333)"
+       id="path1804"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#78aeff;fill-opacity:1;stroke-width:3.71654"
+       d="M 396.42773,278.66406 V 601.03125 L 623.5293,373.92969 A 337.14284,337.14284 0 0 0 396.42773,278.66406 Z"
+       transform="scale(0.26458333)"
+       id="path1802"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#ff6ea8;fill-opacity:1;stroke-width:3.71654"
+       d="M 380.71484,278.66406 A 337.14284,337.14284 0 0 0 153.61523,373.93164 L 380.71484,601.03125 Z"
+       transform="scale(0.26458333)"
+       id="circle835"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <circle
+       style="fill:#ffffff;fill-opacity:0;stroke-width:0.600001"
+       id="path913"
+       cx="102.80975"
+       cy="162.90788"
+       r="60.476189"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <text
+       xml:space="preserve"
+       id="text915"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre"
+       transform="matrix(-1.5063213,0.2243964,-0.2243964,-1.5063213,292.34539,387.1867)"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><textPath
+         xlink:href="#path913"
+         id="textPath921"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Tegen                                              Boven                                               Samen                                            Onder</textPath></text>
+    <path
+       style="fill:#d4aa00;stroke-width:0.600001"
+       d="M 100.7308,169.06048 66.414033,203.37725 A 54.428569,54.428569 0 0 0 100.7308,217.29629 Z"
+       id="path934"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       id="path932"
+       style="fill:#52b981;stroke-width:0.600001"
+       d="m 107.82856,166.12061 34.35966,34.35966 a 54.428569,54.428569 0 0 0 14.95464,-34.35966 z m -2.94039,2.93987 v 48.23581 a 54.428569,54.428569 0 0 0 34.31625,-13.91956 z"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#d4aa00;stroke-width:0.600001"
+       d="m 48.476111,166.12061 a 54.428569,54.428569 0 0 0 14.954126,34.36017 l 34.360175,-34.36017 z"
+       id="path930"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#0055d4;stroke-width:0.600001"
+       d="m 143.27911,126.51217 -35.45055,35.45055 h 49.40112 a 54.428569,54.428569 0 0 0 -13.95057,-35.45055 z"
+       id="path928"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       style="fill:#0055d4;stroke-width:0.600001"
+       d="m 104.88817,108.51896 v 50.50389 l 35.49447,-35.49447 a 54.428569,54.428569 0 0 0 -35.49447,-15.00942 z"
+       id="path926"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <path
+       id="path833"
+       style="fill:#aa0044;stroke-width:0.600001"
+       d="M 100.7308,108.51896 A 54.428569,54.428569 0 0 0 65.236843,123.52889 L 100.7308,159.02285 Z M 62.339862,126.51217 A 54.428569,54.428569 0 0 0 48.389293,161.96272 H 97.790412 Z"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="55.324791"
+       y="152.07635"
+       id="text881"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><tspan
+         sodipodi:role="line"
+         id="tspan879"
+         x="55.324791"
+         y="152.07635"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Aggressief</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="73.499123"
+       y="125.3494"
+       id="text885"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><tspan
+         sodipodi:role="line"
+         id="tspan883"
+         x="73.499123"
+         y="125.3494"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Autoritair</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="55.324791"
+       y="174.79427"
+       id="text889"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><tspan
+         sodipodi:role="line"
+         id="tspan887"
+         x="55.324791"
+         y="174.79427"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Wan-</tspan><tspan
+         sodipodi:role="line"
+         x="55.324791"
+         y="181.40886"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         id="tspan911">trouwend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="78.57724"
+       y="202.32303"
+       id="text893"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><tspan
+         sodipodi:role="line"
+         id="tspan891"
+         x="78.57724"
+         y="202.32303"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Passief</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="108.24416"
+       y="204.19391"
+       id="text897"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="108.24416"
+         y="204.19391"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Afhankelijk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="123.47852"
+       y="176.93242"
+       id="text901"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><tspan
+         sodipodi:role="line"
+         id="tspan899"
+         x="123.47852"
+         y="176.93242"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Meegaand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="127.21243"
+       y="153.50441"
+       id="text905"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><tspan
+         sodipodi:role="line"
+         id="tspan903"
+         x="127.21243"
+         y="153.50441"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Helpend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583"
+       x="110.11504"
+       y="125.88393"
+       id="text909"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><tspan
+         sodipodi:role="line"
+         id="tspan907"
+         x="110.11504"
+         y="125.88393"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583">Leidend</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.444884"
+       id="path1681"
+       cx="102.80951"
+       cy="163.67744"
+       r="16.26087"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 1.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <ellipse
+       style="fill:#d35f5f;fill-opacity:0;stroke-width:0.751871"
+       id="path1816"
+       cx="-192.68719"
+       cy="-22.179857"
+       rx="75.103912"
+       ry="76.50544"
+       transform="rotate(-128.66564)"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       id="text1826"
+       transform="matrix(0.73621307,0.63329842,-0.63329842,0.73621307,131.57769,-21.872871)"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><textPath
+         xlink:href="#path1816"
+         id="textPath1828">Kijk hoe goed ik ben           Luister naar me               Wij mogen elkaar            Ik doe wat jij wilt                      help mij                    Laat me met rust           Minacht me maar          Wees bang voor me</textPath></text>
+    <circle
+       style="fill:#ff8080;fill-opacity:0;stroke-width:0.403298"
+       id="path1831"
+       cx="-70.757553"
+       cy="179.35693"
+       r="95.272995"
+       transform="rotate(-53.2312)"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614" />
+    <text
+       xml:space="preserve"
+       id="text1833"
+       style="font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre"
+       inkscape:export-filename="C:\Users\Gebruiker\Dropbox\Coaching\roos van leary 2.png"
+       inkscape:export-xdpi="614"
+       inkscape:export-ydpi="614"><textPath
+         xlink:href="#path1831"
+         id="textPath1839"><tspan
+           id="tspan1837"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Alef;-inkscape-font-specification:'Alef, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">www.lifecoach4u.nl</tspan></textPath></text>
+    <g
+       id="g1538"
+       transform="matrix(0.81600102,0,0,0.81600102,29.762943,99.373425)">
+      <g
+         transform="translate(-4.4274219,-32.225326)"
+         id="g5363">
+        <g
+           id="g5351">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5188"
+             d="m 110.00253,113.41935 a 15.184418,15.184429 0 0 1 -0.41634,1.14095 15.184418,15.184429 0 0 1 -0.65976,1.36675 15.184418,15.184429 0 0 1 -0.79343,1.29394 15.184418,15.184429 0 0 1 -0.91856,1.20806 15.184418,15.184429 0 0 1 -1.03458,1.11079 15.184418,15.184429 0 0 1 -1.14038,1.00159 15.184418,15.184429 0 0 1 -1.23479,0.88273 15.184418,15.184429 0 0 1 -1.31669,0.75533 15.184418,15.184429 0 0 1 -1.38552,0.61996 15.184418,15.184429 0 0 1 -1.440111,0.47891 15.184418,15.184429 0 0 1 -1.481067,0.33214 15.184418,15.184429 0 0 1 -1.506657,0.18315 15.184418,15.184429 0 0 1 -1.07383,0.0381 15.184418,15.184429 0 0 1 -1.516331,-0.0761 15.184418,15.184429 0 0 1 -1.500404,-0.22694 15.184418,15.184429 0 0 1 -1.470828,-0.37538 15.184418,15.184429 0 0 1 -1.425895,-0.52042 15.184418,15.184429 0 0 1 -1.366744,-0.66036 15.184418,15.184429 0 0 1 -1.29394,-0.79341 15.184418,15.184429 0 0 1 -1.20806,-0.91857 15.184418,15.184429 0 0 1 -1.110797,-1.03458 15.184418,15.184429 0 0 1 -1.0016,-1.13981 15.184418,15.184429 0 0 1 -0.882723,-1.23478 15.184418,15.184429 0 0 1 -0.755322,-1.3167 15.184418,15.184429 0 0 1 -0.619953,-1.38551 15.184418,15.184429 0 0 1 -0.478903,-1.44012 15.184418,15.184429 0 0 1 -0.332157,-1.48107 15.184418,15.184429 0 0 1 -0.183144,-1.50666 15.184418,15.184429 0 0 1 -0.0381,-1.0744 15.184418,15.184429 0 0 1 0.07622,-1.51575 15.184418,15.184429 0 0 1 0.226938,-1.501 15.184418,15.184429 0 0 1 0.375384,-1.47025 15.184418,15.184429 0 0 1 0.520421,-1.42589 15.184418,15.184429 0 0 1 0.660336,-1.36674 15.184418,15.184429 0 0 1 0.792863,-1.29395 15.184418,15.184429 0 0 1 0.918553,-1.208063 15.184418,15.184429 0 0 1 1.034587,-1.1108 15.184418,15.184429 0 0 1 1.140374,-1.001596 15.184418,15.184429 0 0 1 1.234792,-0.882724 15.184418,15.184429 0 0 1 1.31669,-0.755322 15.184418,15.184429 0 0 1 1.385512,-0.619956 15.184418,15.184429 0 0 1 1.440119,-0.4789 15.184418,15.184429 0 0 1 1.481063,-0.332159 15.184418,15.184429 0 0 1 1.498131,-0.182005 16.640458,16.536468 0 0 0 -0.789447,-0.03925 16.640458,16.536468 0 0 0 -1.176779,0.04152 16.640458,16.536468 0 0 0 -1.651693,0.199067 16.640458,16.536468 0 0 0 -1.622689,0.362305 16.640458,16.536468 0 0 0 -1.578325,0.520987 16.640458,16.536468 0 0 0 -1.518604,0.675126 16.640458,16.536468 0 0 0 -1.442958,0.822436 16.640458,16.536468 0 0 0 -1.352525,0.961786 16.640458,16.536468 0 0 0 -1.249579,1.090893 16.640458,16.536468 0 0 0 -1.134119,1.209186 16.640458,16.536468 0 0 0 -1.006715,1.316139 16.640458,16.536468 0 0 0 -0.869075,1.40939 16.640458,16.536468 0 0 0 -0.723467,1.48789 16.640458,16.536468 0 0 0 -0.570475,1.55273 16.640458,16.536468 0 0 0 -0.411786,1.60165 16.640458,16.536468 0 0 0 -0.248549,1.63464 16.640458,16.536468 0 0 0 -0.08304,1.65056 16.640458,16.536468 0 0 0 0.04151,1.16994 16.640458,16.536468 0 0 0 0.200772,1.64089 16.640458,16.536468 0 0 0 0.364011,1.61303 16.640458,16.536468 0 0 0 0.524403,1.56866 16.640458,16.536468 0 0 0 0.679675,1.50836 16.640458,16.536468 0 0 0 0.827552,1.43386 16.640458,16.536468 0 0 0 0.967472,1.34456 16.640458,16.536468 0 0 0 1.097718,1.2422 16.640458,16.536468 0 0 0 1.217159,1.12672 16.640458,16.536468 0 0 0 1.324084,1.00046 16.640458,16.536468 0 0 0 1.418505,0.86396 16.640458,16.536468 0 0 0 1.497556,0.71892 16.640458,16.536468 0 0 0 1.562401,0.56649 16.640458,16.536468 0 0 0 1.611883,0.40893 16.640458,16.536468 0 0 0 1.644302,0.24742 16.640458,16.536468 0 0 0 1.661365,0.0824 16.640458,16.536468 0 0 0 1.177343,-0.0415 16.640458,16.536468 0 0 0 1.651128,-0.19907 16.640458,16.536468 0 0 0 1.622687,-0.36231 16.640458,16.536468 0 0 0 1.578895,-0.52098 16.640458,16.536468 0 0 0 1.518037,-0.67512 16.640458,16.536468 0 0 0 1.44296,-0.82244 16.640458,16.536468 0 0 0 1.35309,-0.96178 16.640458,16.536468 0 0 0 1.24958,-1.09091 16.640458,16.536468 0 0 0 1.13355,-1.20919 16.640458,16.536468 0 0 0 1.00671,-1.31613 16.640458,16.536468 0 0 0 0.86965,-1.40939 16.640458,16.536468 0 0 0 0.72347,-1.4879 16.640458,16.536468 0 0 0 0.57047,-1.55273 16.640458,16.536468 0 0 0 0.37652,-1.46685 z"
+             style="opacity:1;fill:#51b880;fill-opacity:1;stroke:none;stroke-width:1.72248;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5200"
+             d="m 83.01968,98.87314 a 15.288215,15.192675 0 0 0 -0.09163,0.07974 15.288215,15.192675 0 0 0 -1.042122,1.11097 15.288215,15.192675 0 0 0 -0.924853,1.20924 15.288215,15.192675 0 0 0 -0.798565,1.2947 15.288215,15.192675 0 0 0 -0.664679,1.36734 15.288215,15.192675 0 0 0 -0.524147,1.42622 15.288215,15.192675 0 0 0 -0.378392,1.47178 15.288215,15.192675 0 0 0 -0.228365,1.5017 15.288215,15.192675 0 0 0 -0.07596,1.51643 15.288215,15.192675 0 0 0 0.03798,1.07486 15.288215,15.192675 0 0 0 0.184211,1.50741 15.288215,15.192675 0 0 0 0.334714,1.48222 15.288215,15.192675 0 0 0 0.481891,1.44094 15.288215,15.192675 0 0 0 0.624325,1.38585 15.288215,15.192675 0 0 0 0.760108,1.31749 15.288215,15.192675 0 0 0 0.889246,1.23535 15.288215,15.192675 0 0 0 1.008412,1.14089 15.288215,15.192675 0 0 0 1.118086,1.03546 15.288215,15.192675 0 0 0 1.216363,0.91917 15.288215,15.192675 0 0 0 1.303246,0.79381 15.288215,15.192675 0 0 0 1.375885,0.66041 15.288215,15.192675 0 0 0 1.435708,0.52035 15.288215,15.192675 0 0 0 1.48081,0.37554 15.288215,15.192675 0 0 0 1.510721,0.22741 15.288215,15.192675 0 0 0 1.526388,0.076 15.288215,15.192675 0 0 0 1.081527,-0.0385 15.288215,15.192675 0 0 0 0.249729,-0.0298 15.751515,15.65308 0 0 1 -0.192755,0.006 15.751515,15.65308 0 0 1 -1.572442,-0.0779 15.751515,15.65308 0 0 1 -1.556774,-0.23407 15.751515,15.65308 0 0 1 -1.525913,-0.38741 15.751515,15.65308 0 0 1 -1.478911,-0.53602 15.751515,15.65308 0 0 1 -1.417191,-0.68035 15.751515,15.65308 0 0 1 -1.343127,-0.81803 15.751515,15.65308 0 0 1 -1.25292,-0.94716 15.751515,15.65308 0 0 1 -1.152269,-1.06633 15.751515,15.65308 0 0 1 -1.039273,-1.17602 15.751515,15.65308 0 0 1 -0.915832,-1.27237 15.751515,15.65308 0 0 1 -0.783372,-1.35738 15.751515,15.65308 0 0 1 -0.643315,-1.42764 15.751515,15.65308 0 0 1 -0.496136,-1.48508 15.751515,15.65308 0 0 1 -0.344684,-1.52686 15.751515,15.65308 0 0 1 -0.189908,-1.55345 15.751515,15.65308 0 0 1 -0.0394,-1.10716 15.751515,15.65308 0 0 1 0.07881,-1.56248 15.751515,15.65308 0 0 1 0.235011,-1.54728 15.751515,15.65308 0 0 1 0.389788,-1.51594 15.751515,15.65308 0 0 1 0.539814,-1.46988 15.751515,15.65308 0 0 1 0.685094,-1.40865 15.751515,15.65308 0 0 1 0.822778,-1.33412 15.751515,15.65308 0 0 1 0.952864,-1.245792 15.751515,15.65308 0 0 1 0.349433,-0.372216 z"
+             style="opacity:0.77;fill:url(#linearGradient5208);fill-opacity:1;stroke:none;stroke-width:1.58251;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5048)" />
+        </g>
+        <g
+           id="g5355">
+          <path
+             inkscape:connector-curvature="0"
+             id="path5196"
+             d="m 95.74325,94.069392 a 14.457605,14.457605 0 0 0 -14.457186,14.457188 14.457605,14.457605 0 0 0 2.734479,8.43067 12.744111,12.744111 0 0 1 -1.984825,-6.8242 12.744111,12.744111 0 0 1 12.74411,-12.744098 12.744111,12.744111 0 0 1 12.744112,12.744098 12.744111,12.744111 0 0 1 -12.744112,12.74411 12.744111,12.744111 0 0 1 -1.060642,-0.0527 14.457605,14.457605 0 0 0 2.024064,0.15988 14.457605,14.457605 0 0 0 14.45777,-14.45776 14.457605,14.457605 0 0 0 -14.45777,-14.457188 z"
+             style="opacity:1;fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.77367;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path5202"
+             d="m 108.25073,112.34595 a 13.067454,13.14963 61.107092 0 0 0.0358,-0.0982 13.067454,13.14963 61.107092 0 0 0.32308,-1.26971 13.067454,13.14963 61.107092 0 0 0.19392,-1.29499 13.067454,13.14963 61.107092 0 0 0.0633,-1.30683 13.067454,13.14963 61.107092 0 0 -0.0677,-1.30592 13.067454,13.14963 61.107092 0 0 -0.19802,-1.29183 13.067454,13.14963 61.107092 0 0 -0.32669,-1.26559 13.067454,13.14963 61.107092 0 0 -0.45212,-1.22578 13.067454,13.14963 61.107092 0 0 -0.57297,-1.17353 13.067454,13.14963 61.107092 0 0 -0.47531,-0.79363 13.067454,13.14963 61.107092 0 0 -0.76518,-1.05861 13.067454,13.14963 61.107092 0 0 -0.86805,-0.977086 13.067454,13.14963 61.107092 0 0 -0.96172,-0.884835 13.067454,13.14963 61.107092 0 0 -1.04609,-0.784159 13.067454,13.14963 61.107092 0 0 -1.11993,-0.676247 13.067454,13.14963 61.107092 0 0 -1.18304,-0.560727 13.067454,13.14963 61.107092 0 0 -1.23353,-0.440062 13.067454,13.14963 61.107092 0 0 -1.272296,-0.315093 13.067454,13.14963 61.107092 0 0 -1.297983,-0.186676 13.067454,13.14963 61.107092 0 0 -1.311305,-0.05618 13.067454,13.14963 61.107092 0 0 -1.310573,0.07448 13.067454,13.14963 61.107092 0 0 -1.297416,0.204814 13.067454,13.14963 61.107092 0 0 -1.271196,0.332604 13.067454,13.14963 61.107092 0 0 -1.232156,0.456575 13.067454,13.14963 61.107092 0 0 -1.181026,0.577103 13.067454,13.14963 61.107092 0 0 -0.798455,0.478481 13.067454,13.14963 61.107092 0 0 -0.175676,0.126229 13.463456,13.548122 61.107092 0 1 0.142659,-0.08463 13.463456,13.548122 61.107092 0 1 1.216512,-0.594829 13.463456,13.548122 61.107092 0 1 1.269608,-0.470713 13.463456,13.548122 61.107092 0 1 1.310089,-0.342397 13.463456,13.548122 61.107092 0 1 1.336458,-0.210962 13.463456,13.548122 61.107092 0 1 1.349971,-0.07664 13.463456,13.548122 61.107092 0 1 1.351398,0.05788 13.463456,13.548122 61.107092 0 1 1.337142,0.192562 13.463456,13.548122 61.107092 0 1 1.310869,0.324136 13.463456,13.548122 61.107092 0 1 1.271366,0.45369 13.463456,13.548122 61.107092 0 1 1.21845,0.577555 13.463456,13.548122 61.107092 0 1 1.15403,0.696621 13.463456,13.548122 61.107092 0 1 1.07775,0.807734 13.463456,13.548122 61.107092 0 1 0.9908,0.912163 13.463456,13.548122 61.107092 0 1 0.8941,1.006559 13.463456,13.548122 61.107092 0 1 0.7886,1.09091 13.463456,13.548122 61.107092 0 1 0.48979,0.81736 13.463456,13.548122 61.107092 0 1 0.59,1.20939 13.463456,13.548122 61.107092 0 1 0.46605,1.26285 13.463456,13.548122 61.107092 0 1 0.33648,1.30356 13.463456,13.548122 61.107092 0 1 0.20435,1.33123 13.463456,13.548122 61.107092 0 1 0.0695,1.34551 13.463456,13.548122 61.107092 0 1 -0.0652,1.3466 13.463456,13.548122 61.107092 0 1 -0.19982,1.33414 13.463456,13.548122 61.107092 0 1 -0.10841,0.42553 z"
+             style="opacity:0.44;fill:url(#linearGradient5210);fill-opacity:1;stroke:none;stroke-width:1.36114;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5116)" />
+        </g>
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path5190"
+         d="m 94.873678,62.374668 a 14.403503,14.403503 0 0 1 0.14891,0.03831 16.181759,16.080625 0 0 0 -0.004,-0.0017 16.181759,16.080625 0 0 0 -0.14513,-0.03669 z"
+         style="opacity:0.52381;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1.6339;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#838313;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 83.124809,87.130882 c -0.103445,-0.05595 0.105032,-0.954575 1.258042,-1.665724 0,0 0,-10e-7 0,-10e-7 0.534903,-0.32934 1.271046,-0.575182 2.115723,-0.525617 0.89857,0.06283 1.71546,0.408977 2.554527,0.849936 0.101107,0.05116 0.201174,0.102564 0.302007,0.154412 0.705069,0.36254 1.295724,0.662753 1.928637,0.788426 0.772549,0.162746 1.515248,0.05943 2.10025,-0.150155 1.245389,-0.444932 1.794654,-1.258797 1.901589,-1.188535 0.106935,0.07026 -0.247695,1.096183 -1.64965,1.779624 -0.660674,0.321462 -1.548225,0.513965 -2.500261,0.356202 -0.773091,-0.135548 -1.464217,-0.452121 -2.175452,-0.822897 -0.101511,-0.05292 -0.201972,-0.106094 -0.300101,-0.158089 -0.831161,-0.423806 -1.504554,-0.759374 -2.227336,-0.834378 -0.666277,-0.07876 -1.286057,0.0644 -1.763378,0.281729 0,0 0,0 0,0 -1.031636,0.46856 -1.441152,1.191015 -1.544597,1.135067 z"
+         id="path5373"
+         inkscape:connector-curvature="0"
+         inkscape:path-effect="#path-effect5375;#path-effect5377"
+         inkscape:original-d="m 83.124809,87.130882 c 1.11389,-0.601623 2.22751,-1.202978 3.34087,-1.804069 1.11336,-0.601091 3.16296,1.202446 4.74403,1.804069 1.58109,0.60162 2.71751,-1.158433 4.07587,-1.737251"
+         class="UnoptimicedTransforms" />
+      <path
+         style="fill:#398cd5;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 86.043893,85.979703 c -0.71409,0.0184 -1.33599,0.24255 -1.80403,0.53072 -1.22899,0.75801 -1.27775,1.655539 -1.25832,1.666051 0.004,0.0021 0.009,0.0011 0.0134,0.0011 0.10066,0.044 0.54734,-0.562691 1.53272,-0.915701 0.459,-0.16485 1.04282,-0.256571 1.65985,-0.1478 0.73037,0.117549 1.38098,0.5035 2.21434,0.99581 0.19912,0.122459 0.40899,0.25034 0.6258,0.373099 0.59617,0.337561 1.20203,0.612111 1.86707,0.74104 1.06858,0.194191 2.04912,-0.0826 2.74453,-0.515729 0.85307,-0.518961 1.37259,-1.30541 1.50327,-2.269111 -0.10693,-0.0703 -0.6563,0.74362 -1.90169,1.18856 -0.58501,0.20958 -1.32758,0.312601 -2.10013,0.149861 -0.63292,-0.125681 -1.2235,-0.425531 -1.92857,-0.788071 -0.10083,-0.0519 -0.2012,-0.10335 -0.30231,-0.15451 -0.83906,-0.440959 -1.65579,-0.78724 -2.55436,-0.850079 -0.10559,-0.006 -0.2096,-0.008 -0.31161,-0.005 z"
+         id="path5379"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:transform-center-x="2.4568455"
+         inkscape:transform-center-y="7.1346205" />
+      <g
+         id="g3406"
+         transform="matrix(0.88104357,0,0,0.88104357,-16.147212,7.8537742)"
+         inkscape:transform-center-x="2.5380971"
+         inkscape:transform-center-y="-3.0219122">
+        <path
+           id="rect3399"
+           style="fill:#ff8d00;fill-opacity:1;stroke-width:0.600001"
+           d="m 111.15205,70.224875 9.18739,6.214016 9.18739,-6.214016 c -7.0217,10.26784 -9.18739,18.775685 -9.18739,18.775685 0,0 -2.37202,-8.794837 -9.18739,-18.775685 z"
+           sodipodi:nodetypes="ccccc" />
+        <circle
+           style="fill:#ff8d00;fill-opacity:1;stroke-width:0.701696"
+           id="path3402"
+           cx="120.33944"
+           cy="72.530075"
+           r="2.3051996" />
+      </g>
+    </g>
+    <circle
+       style="fill:#ff8080;fill-opacity:0;stroke-width:0.364519"
+       id="path1505"
+       cx="20.977615"
+       cy="191.5856"
+       r="16.797438"
+       transform="matrix(-0.77842455,0.62773818,0.62773818,0.77842455,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px"
+       id="text1509"
+       transform="rotate(-2.7740283,100.97485,189.37485)"><textPath
+         xlink:href="#path1505"
+         id="textPath1511"><tspan
+           id="tspan1507"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">www.lifecoach4u.nl</tspan></textPath></text>
+  </g>
+</svg>

@@ -6,7 +6,7 @@ date = 2026-09-21T17:54:17+02:00
 draft = false
 +++
 {{% split-block image="/images/coaching - enneagram.svg" alt="Het enneagram" %}}
-# Wat doet dat er toe?
+## Wat doet dat er toe?
 
 Waarom zou je eigenlijk willen weten wat voor type je bent? Omdat hoe beter je jezelf kent, hoe beter je van jezelf "gebruik kunt maken". Ik bedoel daarmee dit: wanneer je weet waar je energie van krijgt, weet je wat je moet doen als het leven even tegen zit om jezelf uit "het slob"  te trekken.  Wanneer je weet wat je valkuilen zijn, weet je wat je moet doen of moet leren om daarvan weg te blijven of er anders mee om te gaan. Dat maakt het eigenlijk super belangrijk.  En daarvoor is een tool: het enneagram.
 
@@ -36,9 +36,7 @@ Om onszelf (en natuurlijk ook anderen) te kunnen begrijpen is er een soort opdel
 
 De 9 typen van het enneagram met hoofdeigenschappen
 
-##
-
-Hoe gebruik je het enneagram
+## Hoe gebruik je het enneagram
 
 Tijdens coaching leg ik veel aandacht op weten wie je bent. Het enneagram is daar een fijn instrument voor omdat het woorden geeft aan wat je eigen maakt. Nu is niemand helemaal één type. Je mag jezelf als perfectionist zien, maar dat zal niet het enige type zijn waar je je mee verbonden voelt. Zo kun je je bijvoorbeeld ook in de analist of levensgenieter herkennen.  In feite kun je bij elk type waarschijnlijk wel zeggen dat je je erin herkent. Dus hoe helpt dit model dan? 
 

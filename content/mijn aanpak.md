@@ -9,13 +9,13 @@ draft = false
 {{% split-block image="/images/coaching - Doel.svg" alt="coaching aanpak" %}}
 # Mijn coaching aanpak
 
-Jij hebt een werk- of levensvragen en de wilt daar iets mee te doen. Dat vraagt om een heldere aanpak. Die aanpak bestaat uit jou drijfveren, kwaliteiten en mogelijkheden inzetten om je probleem te begrijpen en aan te pakken. We bespreken samen welke doelgerichte acties je kunt nemen om verder te komen en we evalueren telkens hoe dat is gegaan. Ik kom beslagen ten ijs door training en ervaring. Jij merkt vooral dat je elke keer meer zicht krijgt op wat jou bezig houdt, en hoe je met je coachvraag aan de slag kunt. Je zult merken dat je genoeg invulling en inhoud krijgt om na het coachingstraject zelfstandig verder te gaan.
+Jij hebt werk- of levensvragen en de wil daar iets mee te doen. Dat vraagt om een heldere aanpak. Die aanpak bestaat uit jou drijfveren, kwaliteiten en mogelijkheden inzetten om je probleem te begrijpen en aan te pakken. We bespreken samen welke doelgerichte acties je kunt nemen om verder te komen en we evalueren telkens hoe dat is gegaan. Ik kom beslagen ten ijs door training en ervaring. Jij merkt vooral dat je elke keer meer zicht krijgt op wat jou bezig houdt, en hoe je met je coachvraag aan de slag kunt. Je zult merken dat je genoeg invulling en inhoud krijgt om na het coachingstraject zelfstandig verder te gaan.
 {{% /split-block %}}
 
 {{% split-block image="/images/coaching - Pad.svg" alt="op jouw maat coachen" %}}
 ## Op (jouw) maat
 
-Elk coachingstraject is anders. Elk mens is uniek en vraagt een unieke benadering. Daarnaast speelt jou vraag in jouw specifieke context. Zowel welke stappen we in het coachingstraject nemen als de frequentie en duur van de coachings-sessie bespreken we samen. 
+Elk coachingstraject is anders. Elk mens is uniek en vraagt een unieke benadering. Daarnaast speelt jouw vraag in jouw specifieke context. Zowel welke stappen we in het coachingstraject nemen als de frequentie en duur van de coachings-sessie bespreken we samen. 
 {{% /split-block %}}
 
 {{% split-block image="/images/coaching - kado.svg" alt="coaching geeft resultaat" %}}

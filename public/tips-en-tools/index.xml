@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tips en Tools on Lifecoach4u</title><link>http://localhost:1313/tips-en-tools/</link><description>Recent content in Tips en Tools on Lifecoach4u</description><generator>Hugo</generator><language>nl</language><managingEditor>info@lifecoach4u.nl (Johan Verrips)</managingEditor><webMaster>info@lifecoach4u.nl (Johan Verrips)</webMaster><lastBuildDate>Mon, 21 Sep 2026 17:54:17 +0200</lastBuildDate><atom:link href="http://localhost:1313/tips-en-tools/index.xml" rel="self" type="application/rss+xml"/><item><title>De moodmeter</title><link>http://localhost:1313/tips-en-tools/mood-meter/</link><pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author><guid>http://localhost:1313/tips-en-tools/mood-meter/</guid><description>Hoe voel je je eigenlijk? Met deze tool kun je dat beter benoemen</description></item><item><title>Kan waar je goed in bent ook een valkuil zijn?</title><link>http://localhost:1313/tips-en-tools/kernkwaliteiten/</link><pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author><guid>http://localhost:1313/tips-en-tools/kernkwaliteiten/</guid><description>Waar ben jij goed in? Wat past van nature bij je? En wat als je daar te ver in gaat? Lees hier!</description></item><item><title>Wat voor type ben je?</title><link>http://localhost:1313/tips-en-tools/enneagram/</link><pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author><guid>http://localhost:1313/tips-en-tools/enneagram/</guid><description>Wie ben je nu eigenlijk? En wat doet dat er toe? In dit artikel kijken we wat het enneagram je kunt brengen</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Tips en Tools on Lifecoach4u</title>
+		<link>http://localhost:1313/tips-en-tools/</link>
+		<description>Recent content in Tips en Tools on Lifecoach4u</description>
+		<generator>Hugo</generator>
+		<language>nl</language>
+		
+			<managingEditor>info@lifecoach4u.nl (Johan Verrips)</managingEditor>
+		
+		
+			<webMaster>info@lifecoach4u.nl (Johan Verrips)</webMaster>
+		
+		
+		
+			<lastBuildDate>Mon, 21 Sep 2026 17:54:17 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tips-en-tools/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>De moodmeter</title>
+				<link>http://localhost:1313/tips-en-tools/mood-meter/</link>
+				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
+				<guid>http://localhost:1313/tips-en-tools/mood-meter/</guid>
+				<description>Hoe voel je je eigenlijk? Met deze tool kun je dat beter benoemen</description>
+			</item>
+			<item>
+				<title>Doelen halen - hoe doe je dat?</title>
+				<link>http://localhost:1313/tips-en-tools/doelen-halen/</link>
+				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
+				<guid>http://localhost:1313/tips-en-tools/doelen-halen/</guid>
+				<description>We kennen het allemaal: je hebt je iets in je hoofd gehaald: je wilt afvallen, eens wat vaker een familielid bellen, dat soort dingen. Het begint goed: de eerste week lukt het, de tweede ook, de derde was je het vergeten en na een maand ken je het hele doel niet meer. Hoe kan dat toch?</description>
+			</item>
+			<item>
+				<title>Kan waar je goed in bent ook een valkuil zijn?</title>
+				<link>http://localhost:1313/tips-en-tools/kernkwaliteiten/</link>
+				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
+				<guid>http://localhost:1313/tips-en-tools/kernkwaliteiten/</guid>
+				<description>Waar ben jij goed in? Wat past van nature bij je? En wat als je daar te ver in gaat? Lees hier!</description>
+			</item>
+			<item>
+				<title>Waarom loopt een gesprek soms zo verkeerd</title>
+				<link>http://localhost:1313/tips-en-tools/roos--van-leary/</link>
+				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
+				<guid>http://localhost:1313/tips-en-tools/roos--van-leary/</guid>
+				<description>Je voelde je ondergesneeuwd of de ander ging juist helemaal achterover zitten met een houding van &amp;ldquo;laat maar gaan&amp;rdquo;. Hoe kan dat? Timothy Leary heeft daar onderzoek naar gedaan, al in 1957.  Hij stelde vast dat gedrag gedrag oproept, het is actie-reactie. Lees hier!</description>
+			</item>
+			<item>
+				<title>Wat voor type ben je?</title>
+				<link>http://localhost:1313/tips-en-tools/enneagram/</link>
+				<pubDate>Mon, 21 Sep 2026 17:54:17 +0200</pubDate><author>info@lifecoach4u.nl (Johan Verrips)</author>
+				<guid>http://localhost:1313/tips-en-tools/enneagram/</guid>
+				<description>Wie ben je nu eigenlijk? En wat doet dat er toe? In dit artikel kijken we wat het enneagram je kunt brengen</description>
+			</item>
+	</channel>
+</rss>
