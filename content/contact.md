@@ -3,7 +3,7 @@ title = 'Contact'
 date = 2026-09-21T17:54:17+02:00
 draft = false
 +++
-{{% split-block image="/images/coaching - contact opnemen.svg" alt="coaching aanpak" %}}
+{{% split-block image="images/coaching - contact opnemen.svg" alt="coaching aanpak" %}}
 # Contact
 Wil je eens vrijblijvend over de mogelijkheden van coaching praten of een afspraak maken? Neem dan contact met mij op.
 
