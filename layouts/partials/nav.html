@@ -2,7 +2,7 @@
 {{- $search := site.Params.search | default (dict) -}}
 <nav class="navbar navbar-expand-md navbar-light navbar-custom fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="{{ "" | relLangURL }}"><table><tr><td><img src="{{ "image/coaching 3.svg" | relURL }}" width="40px"/></td><td>{{ .Site.Params.homeTitle | default .Site.Title }}</td></tr></table></a>
+    <a class="navbar-brand" href="{{ "" | relLangURL }}"><table><tr><td><img src="{{ "images/coaching 3.svg" | relURL }}" width="40px"/></td><td>{{ .Site.Params.homeTitle | default .Site.Title }}</td></tr></table></a>
     <div class="d-flex align-items-center">
       {{ if ne ($.Param "toc") false }}
       {{ $tocState := partial "func/toc-state.html" . }}
