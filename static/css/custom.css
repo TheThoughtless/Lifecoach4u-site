@@ -1,6 +1,10 @@
-.content-section {
-	 background-color: var(--bs-body-bg) !important;
+[data-theme='dark'] .content-section {
+	 background-color: var(--dark-bg) !important;
 }
+[data-theme='light'] .content-section {
+	 background-color: var(--light-bg) !important;
+}
+
 
 
 h1, h2, h3 {
