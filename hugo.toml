@@ -3,7 +3,9 @@
 languageCode = 'nl'
 title = 'Lifecoach4u'
 theme = 'beautifulhugo'
-
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 [services]
   [services.googleAnalytics]
     id = 'G-9PTWJ10NPR'
