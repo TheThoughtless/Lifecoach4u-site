@@ -2,7 +2,7 @@
 	background-color : var(--dark-bg) !important;
 }
 [data-theme="light"] .content-section {
-	background-color : var(--light-bg) !important;
+	background-color : var(--syn-bg) !important;
 }
 
 h1, h2, h3 {
