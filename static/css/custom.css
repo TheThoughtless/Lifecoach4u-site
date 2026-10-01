@@ -1,9 +1,7 @@
-[data-theme="dark"] .content-section {
-	background-color : var(--dark-bg) !important;
+.content-section {
+	 background-color: var(--bs-body-bg) !important;
 }
-[data-theme="light"] .content-section {
-	background-color : var(--syn-bg) !important;
-}
+
 
 h1, h2, h3 {
 	text-transform: uppercase;
