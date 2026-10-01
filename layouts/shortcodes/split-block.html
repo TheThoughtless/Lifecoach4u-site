@@ -1,6 +1,6 @@
 <div class="split-block">
   <div class="split-block__image">
-    <img src="{{ .Get "image" }}" alt="{{ .Get "alt" | default "" }}">
+    <img src="{{ .Get "image" | relURL }}" alt="{{ .Get "alt" | default "" }}">
   </div>
   <div class="split-block__content">
     {{ .Inner }}
