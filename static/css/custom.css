@@ -35,10 +35,10 @@ footer {
   border: none !important;
   padding: 0px !important;
 }
-[data-theme="light"] .navbar-brand table tr td{
+[data-theme="light"] .navbar-brand table tr {
     background-color: #F5F5F5 !important;
 }
-[data-theme="dark"] .navbar table tr td {
+[data-theme="dark"] .navbar table tr  {
     background-color: #505050 !important;	
 }
 .navbar table tr  {
