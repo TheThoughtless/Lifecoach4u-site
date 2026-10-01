@@ -2,11 +2,11 @@
 title = 'Referenties'
 date = 2026-09-21T17:54:17+02:00
 [[bigimg]]
-  src = "/images/avondlucht.jpg"
+  src = "images/avondlucht.jpg"
   desc = "avondlucht"
 draft = false
 +++
-{{% split-block image="/images/coaching - shout.svg" alt="Referenties" %}}
+{{% split-block image="images/coaching - shout.svg" alt="Referenties" %}}
 
 ## Wat zeggen klanten over mij?
 
