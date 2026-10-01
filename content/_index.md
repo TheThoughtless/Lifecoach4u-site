@@ -3,7 +3,7 @@ title = "Lifecoach4u | Persoonlijke coaching in de Krimpenerwaard"
 type = "page"
 show_posts = false
 +++
-{{% split-block image="/images/coaching 3.svg" alt="Lifecoach4u logo" class="rond-plaatje" %}}
+{{% split-block image="images/coaching 3.svg" alt="Lifecoach4u logo" class="rond-plaatje" %}}
 ## Persoonlijke coaching
 
 Wil jij werk- of levensvragen aanpakken? Bijvoorbeeld omdat je wilt groeien of steeds tegen dezelfde problemen aan loopt?  Dan ben je hier op de goede plek.
@@ -11,7 +11,7 @@ Wil jij werk- of levensvragen aanpakken? Bijvoorbeeld omdat je wilt groeien of s
 Je vindt hier onder meer [tips & tools]({{<relref "/tips en tools">}}) om jezelf en je omstandigheden te verbeteren of te begrijpen. Wil je meer dan dat? Dan zou coaching iets voor je kunnen zijn: als coach probeer ik je door gesprekken en verschillende werkvormen te helpen bij het vinden van je antwoorden op je vraag. Centraal staat dan wat voor jou belangrijk is, wat jou drijft, motiveert, maar het gaat ook over wat jou belemmert of frustreert.  En hoe dat past op de vraag, situatie, of gedachte waar je mee zit. Daar wil [ik]({{<relref "/wie ben ik.md">}}) je met [mijn aanpak]({{< relref "/mijn aanpak.md" >}}) bij helpen. Neem gerust vrijblijvend [contact]({{<relref "/contact.md">}}) op. Mijn praktijk is in Lekkerkerk, in de mooie Krimpenerwaard.
 {{% /split-block %}}
 
-{{% split-block image="/images/coaching - definitie.svg" alt="de definitie van coaching" %}}
+{{% split-block image="images/coaching - definitie.svg" alt="de definitie van coaching" %}}
 
 
 ## Bij wat voor vragen helpt coaching?
@@ -42,7 +42,7 @@ en veel andere vragen, waarbij het nuttig is met iemand te kunnen spreken die oo
 
 {{% /split-block %}}
 
-{{% split-block image="/images/coaching - definitie.svg" alt="de definitie van coaching" %}}
+{{% split-block image="images/coaching - definitie.svg" alt="de definitie van coaching" %}}
 ## Wat kan coaching voor jou betekenen?
 
 Klinkt allemaal mooi, misschien, maar... wat kan dat voor jou betekenen?
@@ -72,13 +72,13 @@ De voordelen van coaching zijn talrijk; 80% van de mensen die coaching ontvangen
 Je kunt ook lezen [wat andere klanten ervaren hebben]({{< relref "/referenties.md" >}}).
 {{% /split-block %}}
 
-{{% split-block image="/images/coaching - definitie.svg" alt="de definitie van coaching" %}}
+{{% split-block image="images/coaching - definitie.svg" alt="de definitie van coaching" %}}
 
 ## Welke vormen van coaching zijn mogelijk?
 
 Afhankelijk van wat jou voorkeuren zijn,  zijn er allerlei opties om het coach-traject te starten. 
 
-{{% split-block image="/images/coaching - online.svg" alt="online coachen" %}}
+{{% split-block image="images/coaching - online.svg" alt="online coachen" %}}
 
 ### Online
 
@@ -88,13 +88,13 @@ Online coaching is een laagdrempelige manier die tegelijkertijd veel voordelen b
 {{% /split-block %}}
 
 
-{{% split-block image="/images/coaching - buiten.svg" alt="buiten of wandelcoachen" %}}
+{{% split-block image="images/coaching - buiten.svg" alt="buiten of wandelcoachen" %}}
 ## Buiten
 
 Wandelen op een rustige plek is een heel prettige manier om met elkaar in gesprek te zijn. Het biedt mogelijkheden die andere vormen niet bieden.
 {{% /split-block %}}
 
-{{% split-block image="/images/coaching - dialoog.svg" alt="bij jou thuis of bij mij coachen" %}}
+{{% split-block image="images/coaching - dialoog.svg" alt="bij jou thuis of bij mij coachen" %}}
 ## Thuis 
 
 Bij jou thuis, in alle rust,  in jouw omgeving. Of bij mij natuurlijk.
