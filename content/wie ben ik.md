@@ -1,13 +1,13 @@
 +++
 title = 'Wie ben ik?'
 [[bigimg]]
-  src = "/images/SelfieLarge cropped.png"
+  src = "images/SelfieLarge cropped.png"
   desc = "Selfie"
 
 date = 2026-09-21T17:54:17+02:00
 draft = false
 +++
-{{% split-block image="/images/Selfie1.png" alt="Dit ben ik" %}}
+{{% split-block image="images/Selfie1.png" alt="Dit ben ik" %}}
 
 Mijn naam is Johan Verrips en woon in Lekkerkerk. Met 59 jaar, een nieuw huwelijk, en vader van twee prachtige kinderen heb ik de nodige levenservaring opgebouwd. Naast een baan in de IT besteed ik zoveel mogelijk tijd aan mijn passie om mensen hun eigen kracht te laten ontdekken.  Ik heb diverse opleidingen op het gebied van persoonlijke effectiviteit, communicatie en coaching en vind het geweldig daar anderen mee verder te helpen.
 
