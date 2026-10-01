@@ -35,7 +35,7 @@ footer {
   border: none !important;
   padding: 0px !important;
 }
-[data-theme="light"] .navbar-brand table tr {
+[data-theme="light"] .navbar table tr {
     background-color: #F5F5F5 !important;
 }
 [data-theme="dark"] .navbar table tr  {
