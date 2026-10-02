@@ -1,6 +1,8 @@
 +++
 title = 'Contact'
 date = 2026-09-21T17:54:17+02:00
+[[bigimg]]
+  src = "images/opstellingen.jpg"
 draft = false
 +++
 {{% split-block image="images/coaching - contact opnemen.svg" alt="coaching aanpak" %}}
