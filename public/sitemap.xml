@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.lifecoach4u.nl/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/tips-en-tools/mood-meter/</loc>
+    <loc>http://localhost:1313/tips-en-tools/mood-meter/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/tips-en-tools/doelen-halen/</loc>
+    <loc>http://localhost:1313/tips-en-tools/doelen-halen/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/tips-en-tools/kernkwaliteiten/</loc>
+    <loc>http://localhost:1313/tips-en-tools/kernkwaliteiten/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/mijn-aanpak/</loc>
+    <loc>http://localhost:1313/mijn-aanpak/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/referenties/</loc>
+    <loc>http://localhost:1313/referenties/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/tips-en-tools/</loc>
+    <loc>http://localhost:1313/tips-en-tools/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/tips-en-tools/roos--van-leary/</loc>
+    <loc>http://localhost:1313/tips-en-tools/roos--van-leary/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/wat-is-coaching/</loc>
+    <loc>http://localhost:1313/wat-is-coaching/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/tips-en-tools/enneagram/</loc>
+    <loc>http://localhost:1313/tips-en-tools/enneagram/</loc>
     <lastmod>2026-09-21T17:54:17+02:00</lastmod>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://www.lifecoach4u.nl/wie-ben-ik/</loc>
+    <loc>http://localhost:1313/wie-ben-ik/</loc>
   </url>
 </urlset>

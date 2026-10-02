@@ -1,9 +1,10 @@
 baseURL = 'https://www.lifecoach4u.nl/'
 #baseURL = 'https://thethoughtless.github.io/Lifecoach4u-site'
-languageCode = 'nl'
+
 title = 'Lifecoach4u'
 theme = 'beautifulhugo'
-[caches]
+locale = 'nl-NL'
+defaultContentLanguage = 'nl'
   [caches.images]
     dir = ':cacheDir/images'
 [services]

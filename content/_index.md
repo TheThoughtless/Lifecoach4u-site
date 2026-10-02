@@ -89,13 +89,13 @@ Online coaching is een laagdrempelige manier die tegelijkertijd veel voordelen b
 
 
 {{% split-block image="images/coaching - buiten.svg" alt="buiten of wandelcoachen" %}}
-## Buiten
+### Buiten
 
 Wandelen op een rustige plek is een heel prettige manier om met elkaar in gesprek te zijn. Het biedt mogelijkheden die andere vormen niet bieden.
 {{% /split-block %}}
 
 {{% split-block image="images/coaching - dialoog.svg" alt="bij jou thuis of bij mij coachen" %}}
-## Thuis 
+### Thuis 
 
 Bij jou thuis, in alle rust,  in jouw omgeving. Of bij mij natuurlijk.
 {{% /split-block %}}
