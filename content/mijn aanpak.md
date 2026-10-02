@@ -3,8 +3,8 @@ title = 'Mijn aanpak'
 date = 2026-09-21T17:54:17+02:00
 draft = false
 [[bigimg]]
-  src = "images/bos.jpg"
-  desc = "De weg door het bos"
+  src = "images/opstellingen.jpg"
+  
 +++
 {{% split-block image="images/coaching - Doel.svg" alt="coaching aanpak" %}}
 # Mijn coaching aanpak

@@ -36,7 +36,8 @@ theme = 'beautifulhugo'
 
 [[Params.bigimg]]
   #src = "/images/banner-weg cropped.jpg"
-  src='/images/tiendweg banner.jpg'
+  #src='/images/tiendweg banner.jpg'
+  src='/images/polder.jpg'
   desc = "De weg door het leven"
   headerImgStyle = "narrow"
 

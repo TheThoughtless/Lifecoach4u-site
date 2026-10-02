@@ -11,10 +11,12 @@ draft = false
 
 Mijn naam is Johan Verrips en woon in Lekkerkerk. Met 59 jaar, een nieuw huwelijk, en vader van twee prachtige kinderen heb ik de nodige levenservaring opgebouwd. Naast een baan in de IT besteed ik zoveel mogelijk tijd aan mijn passie om mensen hun eigen kracht te laten ontdekken.  Ik heb diverse opleidingen op het gebied van persoonlijke effectiviteit, communicatie en coaching en vind het geweldig daar anderen mee verder te helpen.
 
-Zo heb ik me, naast een algemene levens- en loopbaancoach opleiding, verder verdiept op het gebied van ACT en systemisch werk. 
-ACT staat voor Acceptance and Commitment Therapy. Dit is een therapie die cliënten helpt om op een flexibele manier om te gaan met de obstakels die ze tegenkomen (Acceptance), zodat men kan blijven investeren in de dingen die ze écht belangrijk vinden (Commitment). 
-
-Systemisch coachen is een benadering binnen coaching die zich richt op het begrijpen en beïnvloeden van de interacties en patronen binnen systemen, zoals families, organisaties en teams. Het gaat uit van het principe dat individuen en problemen niet geïsoleerd kunnen worden gezien, maar dat ze deel uitmaken van een groter geheel en beïnvloed worden door de dynamiek en relaties binnen dat systeem. Je familie en oorspronkelijke gezin hebben vanzelfsprekend veel invloed op hoe jij in het leven staat.
+Ik heb op het vlak van coachen verschillende opleidingen gedaan:
+- Coachen op de werkvloer - BCoach Woerden
+- Opleiding tot levens- en loopbaancoach - BCoach Woerden
+- Acceptance & Commitment Therapy - StressWise Academy
+- Systemisch teamcoachen - ICM Opleidingen
+- Opleiding tot systemisch coach - Bewustzijnsfabriek Nieuwerkerk ad IJssel
 
 Coaching is op een natuurlijke manier een vaardigheid geworden.  Vanzelf kwamen mensen "sparren" over problemen of uitdagingen. Men voelde zich gehoord en hechtten waarde aan de gesprekken. Van lieverlee ben ik dit verder gaan ontwikkelen met studie en training. En elk gesprek vind ik weer fascinerend!
 

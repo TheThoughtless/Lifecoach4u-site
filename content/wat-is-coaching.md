@@ -2,8 +2,8 @@
 title = 'Wat is coaching?'
 date = 2026-09-21T17:54:17+02:00
 [[bigimg]]
-  src = "images/banner blue.jpg"
-  desc = "Selfie"
+  src = "images/tiendweg banner.jpg"
+  desc = "Soms de weg voorwaarts mistig"
 draft = false
 +++
 {{% split-block image="images/coaching - definitie.svg" alt="de definitie van coaching" %}}
