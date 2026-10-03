@@ -4,6 +4,7 @@ baseURL = 'https://www.lifecoach4u.nl/'
 title = 'Lifecoach4u'
 theme = 'beautifulhugo'
 locale = 'nl-NL'
+defaultContentLanguage = "nl"
 enableRobotsTXT = true
 canonifyURLs = true
 
