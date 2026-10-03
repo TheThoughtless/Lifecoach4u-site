@@ -1,3 +1,62 @@
+
+/* --- aanpassingen van mij --- */
+.navbar-brand table tr td{
+  border: none !important;
+  padding: 0px !important;
+}
+[data-theme="light"] .navbar table tr {
+    background-color: #F5F5F5 !important;
+}
+[data-theme="dark"] .navbar table tr  {
+    background-color: #505050 !important;	
+}
+.navbar table tr  {
+    border:none;
+	 background-color: #F5F5F5 !important;
+}
+.content-section {
+	background-color:#FFFFFF;
+}
+
+[data-theme='dark'] .content-section {
+	 background-color: var(--dark-bg) !important;
+}
+[data-theme='light'] .content-section {
+	 background-color: var(--light-bg) !important;
+}
+
+
+
+h1, h2, h3 {
+	text-transform: uppercase;
+}
+
+h2, h3 {
+	color:#008080 !important;
+}
+
+body {
+	font-family : 'Open Sans' !important
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif !important;
+}
+/* Verberg de post datum in Beautiful Hugo */
+.post-meta, .post-date {
+    display: none !important;
+}
+p.credits {
+	font-family: Oswald, sans-serif !important;
+	font-size: 11px !important;
+}
+footer {
+    padding-top: 20px  !important;
+}
+
+
+/* --- einde aanpassingen --- */
+
 /* --- General --- */
 
 body {

@@ -10,7 +10,7 @@ show_posts = false
 
 Wil jij werk- of levensvragen aanpakken? Bijvoorbeeld omdat je wilt groeien of steeds tegen dezelfde problemen aan loopt?  Dan ben je hier op de goede plek.
 
-Je vindt hier onder meer [tips & tools]({{<relref "/tips en tools">}}) om jezelf en je omstandigheden te verbeteren of te begrijpen. Wil je meer dan dat? Dan zou coaching iets voor je kunnen zijn: als coach probeer ik je door gesprekken en verschillende werkvormen te helpen bij het vinden van je antwoorden op je vraag. Centraal staat dan wat voor jou belangrijk is, wat jou drijft, motiveert, maar het gaat ook over wat jou belemmert of frustreert.  En hoe dat past op de vraag, situatie, of gedachte waar je mee zit. Daar wil [ik]({{<relref "/wie ben ik.md">}}) je met [mijn aanpak]({{< relref "/mijn aanpak.md" >}}) bij helpen. Neem gerust vrijblijvend [contact]({{<relref "/contact.md">}}) op. Mijn praktijk is in Lekkerkerk, in de mooie Krimpenerwaard.
+Je vindt hier onder meer [tips & tools]({{<relref "/Tips en Tools">}}) om jezelf en je omstandigheden te verbeteren of te begrijpen. Wil je meer dan dat? Dan zou coaching iets voor je kunnen zijn: als coach probeer ik je door gesprekken en verschillende werkvormen te helpen bij het vinden van je antwoorden op je vraag. Centraal staat dan wat voor jou belangrijk is, wat jou drijft, motiveert, maar het gaat ook over wat jou belemmert of frustreert.  En hoe dat past op de vraag, situatie, of gedachte waar je mee zit. Daar wil [ik]({{<relref "/wie ben ik.md">}}) je met [mijn aanpak]({{< relref "/mijn aanpak.md" >}}) bij helpen. Neem gerust vrijblijvend [contact]({{<relref "/contact.md">}}) op. Mijn praktijk is in Lekkerkerk, in de mooie Krimpenerwaard.
 {{% /split-block %}}
 
 {{% split-block image="images/coaching - definitie.svg" alt="de definitie van coaching" %}}
@@ -30,7 +30,7 @@ Je vindt hier onder meer [tips & tools]({{<relref "/tips en tools">}}) om jezelf
 
 -   Hoe voorkom ik dat ik steeds weer tegen die en die situatie oploop?
 
--   Ik had voor mezelf [een doel gesteld](https://www.lifecoach4u.nl/tips-tools/doelen-halen), maar het lukt me niet me daarop te richten
+-   Ik had voor mezelf [een doel gesteld]({{<relref "/tips en tools/doelen-halen.md" >}}), maar het lukt me niet me daarop te richten
 
 -   Hoe voorkom ik dat ik steeds naar de pijpen van anderen moet dansen?
 
