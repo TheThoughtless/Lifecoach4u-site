@@ -4,7 +4,7 @@ description='Een heldere, resultaatgerichte aanpak voor jouw werk- en levensvrag
 date = 2026-09-21T17:54:17+02:00
 draft = false
 [[bigimg]]
-  src = "images/opstellingen.jpg"
+  src = "images/opstellingen.webp"
   
 +++
 {{% split-block image="images/coaching - Doel.svg" alt="coaching aanpak" %}}

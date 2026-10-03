@@ -3,7 +3,7 @@ title = 'Wat is coaching?'
 description = ' Wat houdt een coachtraject precies in? Leer hoe professionele coaching helpt bij bewustwording, zelfvertrouwen en het inzetten van je eigen kwaliteiten.'
 date = 2026-09-21T17:54:17+02:00
 [[bigimg]]
-  src = "images/tiendweg banner.jpg"
+  src = "images/tiendweg banner.webp"
   desc = "Soms de weg voorwaarts mistig"
 draft = false
 +++

@@ -1,0 +1,40 @@
+{{/* 1. Sanitize the path and look for it in the assets/static virtual mount */}}
+{{- $path := .Destination -}}
+{{- $path = strings.TrimPrefix "/" $path -}}
+{{- $path = strings.TrimPrefix "static/" $path -}}
+
+{{/* Hugo now searches assets/static/... which maps to your actual /static/... directory */}}
+{{- $image := resources.Get (printf "static/%s" $path) -}}
+
+{{- if and $image (eq $image.MediaType.MainType "image") (ne $image.MediaType.SubType "svg") (ne $image.MediaType.SubType "gif") -}}
+  
+  {{/* 2. Define responsive break points */}}
+  {{- $widths := slice 480 768 1200 1600 -}}
+  {{- $srcSet := slice -}}
+  
+  {{/* 3. Generate responsive WebP sizing variations */}}
+  {{- range $widths -}}
+    {{- if lt . $image.Width -}}
+      {{- $resized := $image.Resize (printf "%dx webp" .) -}}
+      {{- $srcSet = $srcSet | append (printf "%s %dw" $resized.RelPermalink .) -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{/* 4. Convert original resolution to WebP fallback */}}
+  {{- $fallbackWebp := $image.Resize (printf "%dx webp" $image.Width) -}}
+  {{- $srcSet = $srcSet | append (printf "%s %dw" $fallbackWebp.RelPermalink $image.Width) -}}
+  
+  {{/* 5. Output optimized responsive HTML */}}
+  <img src="{{ $fallbackWebp.RelPermalink }}"
+       srcset="{{ delimit $srcSet ", " }}"
+       sizes="(max-width: 768px) 100vw, (max-width: 1200px) 70vw, 1200px"
+       width="{{ $image.Width }}"
+       height="{{ $image.Height }}"
+       alt="{{ .PlainText }}"
+       loading="lazy"
+       decoding="async">
+
+{{- else -}}
+  {{/* Fallback if the file is an SVG, GIF, or a remote external URL link */}}
+  <img src="{{ .Destination | safeURL }}" alt="{{ .PlainText }}" loading="lazy">
+{{- end -}}

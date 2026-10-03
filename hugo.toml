@@ -21,6 +21,15 @@ canonifyURLs = true
   [markup.goldmark.renderHooks.image]
     useEmbedded = 'fallback'
 
+# Map both the standard assets folder and your static folder into Hugo's asset pipeline
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+
+[[module.mounts]]
+  source = "static"
+  target = "assets/static"
+
 [module.hugoVersion]
       
 [Params]
@@ -40,7 +49,7 @@ canonifyURLs = true
 [[Params.bigimg]]
   #src = "/images/banner-weg cropped.jpg"
   #src='/images/tiendweg banner.jpg'
-  src='/images/polder.jpg'
+  src='/images/polder.webp'
   desc = "De weg door het leven"
   headerImgStyle = "narrow"
 
