@@ -1,6 +1,6 @@
 +++
 title = 'Doelen halen - hoe doe je dat?'
-
+description = 'Waarom is het halen van doelen zo moeilijk, en hoe kun je daar mee omgaan?'
 summary = 'We kennen het allemaal: je hebt je iets in je hoofd gehaald: je wilt afvallen, eens wat vaker een familielid bellen, dat soort dingen. Het begint goed: de eerste week lukt het, de tweede ook, de derde was je het vergeten en na een maand ken je het hele doel niet meer. Hoe kan dat toch?'
 date = 2026-09-21T17:54:17+02:00
 draft = false

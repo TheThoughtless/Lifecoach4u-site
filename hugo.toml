@@ -4,14 +4,16 @@ baseURL = 'https://www.lifecoach4u.nl/'
 title = 'Lifecoach4u'
 theme = 'beautifulhugo'
 locale = 'nl-NL'
-defaultContentLanguage = 'nl'
-  [caches.images]
+enableRobotsTXT = true
+canonifyURLs = true
+
+[caches.images]
     dir = ':cacheDir/images'
 [services]
   [services.googleAnalytics]
     id = 'G-9PTWJ10NPR'
-
-
+[minify]
+  minifyOutput = true
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -24,6 +26,7 @@ defaultContentLanguage = 'nl'
 [Params]
   toc = false
   subtitle = 'persoonlijke coaching in de Krimpenerwaard'
+  description='Wil jij werk- of levensvragen aanpakken? Bijvoorbeeld omdat je wilt groeien of steeds tegen dezelfde problemen aan loopt? Dan ben je hier op de goede plek. Persoonlijke coaching kan je verder helpen.'
   logo = '/images/Selfie1.png'
   showPageDates = false
   hideAuthor = true

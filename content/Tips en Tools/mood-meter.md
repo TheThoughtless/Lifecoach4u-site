@@ -1,5 +1,6 @@
 +++
 title = 'De moodmeter'
+description = 'Hoe voel je je eigenlijk? Met dit model kun je dat beter benoemen.'
 summary = 'Hoe voel je je eigenlijk? Met deze tool kun je dat beter benoemen'
 date = 2026-09-21T17:54:17+02:00
 draft = false

@@ -1,5 +1,6 @@
 +++
 title = 'Wat is coaching?'
+description = 'Wat is coaching eigenlijk, en wat mag je verwachten van een coach (van mij dus).'
 date = 2026-09-21T17:54:17+02:00
 [[bigimg]]
   src = "images/tiendweg banner.jpg"

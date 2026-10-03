@@ -1,7 +1,7 @@
 +++
 title = 'Kan waar je goed in bent ook een valkuil zijn?'
-
-summary = 'Waar ben jij goed in? Wat past van nature bij je? En wat als je daar te ver in gaat? Lees hier!'
+description = 'Waar je goed in bent kan zomaar je valkuil worden. Met dit model krijg je daar inzicht in.'
+summary = 'Waar ben jij goed in? Wat past van nature bij je? En wat als je daar te ver in gaat? Dit model helpt je om daar inzicht in te krijgen. Lees hier!'
 date = 2026-09-21T17:54:17+02:00
 draft = false
 +++

@@ -1,5 +1,6 @@
 +++
 title = 'Mijn aanpak'
+description='Mijn aanpak: op (jouw) maat, gericht op resultaat, met een "klik"'
 date = 2026-09-21T17:54:17+02:00
 draft = false
 [[bigimg]]

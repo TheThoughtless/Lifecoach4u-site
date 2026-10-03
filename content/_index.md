@@ -1,5 +1,7 @@
 +++
 title = "Lifecoach4u | Persoonlijke coaching in de Krimpenerwaard"
+description='Wil jij werk- of levensvragen aanpakken? Bijvoorbeeld omdat je wilt groeien of steeds tegen dezelfde problemen aan loopt? Dan ben je hier op de goede plek. Persoonlijke coaching kan je verder helpen.'
+
 type = "page"
 show_posts = false
 +++

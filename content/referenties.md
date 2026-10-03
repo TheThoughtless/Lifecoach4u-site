@@ -1,5 +1,6 @@
 +++
 title = 'Referenties'
+description = 'Lees hier wat klanten over mij zeggen'
 date = 2026-09-21T17:54:17+02:00
 [[bigimg]]
   src = "images/bos.jpg"

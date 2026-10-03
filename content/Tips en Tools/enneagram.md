@@ -1,6 +1,6 @@
 +++
 title = 'Wat voor type ben je?'
-
+description = 'Wat voor type ben je? Het enneagram kan je fantastisch helpen.'
 summary = 'Wie ben je nu eigenlijk? En wat doet dat er toe? In dit artikel kijken we wat het enneagram je kunt brengen'
 date = 2026-09-21T17:54:17+02:00
 draft = false

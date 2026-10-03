@@ -1,5 +1,6 @@
 +++
 title = 'Wie ben ik?'
+description='Ik stel me graag even aan je voor.'
 [[bigimg]]
   src = "images/SelfieLarge cropped.png"
   desc = "Selfie"
@@ -11,7 +12,7 @@ draft = false
 
 Mijn naam is Johan Verrips en woon in Lekkerkerk. Met 59 jaar, een nieuw huwelijk, en vader van twee prachtige kinderen heb ik de nodige levenservaring opgebouwd. Naast een baan in de IT besteed ik zoveel mogelijk tijd aan mijn passie om mensen hun eigen kracht te laten ontdekken.  Ik heb diverse opleidingen op het gebied van persoonlijke effectiviteit, communicatie en coaching en vind het geweldig daar anderen mee verder te helpen.
 
-Ik heb op het vlak van coachen verschillende opleidingen gedaan:
+Ik heb op het vlak van coachen en begeleiden verschillende opleidingen gedaan:
 - Coachen op de werkvloer - BCoach Woerden
 - Opleiding tot levens- en loopbaancoach - BCoach Woerden
 - Acceptance & Commitment Therapy - StressWise Academy

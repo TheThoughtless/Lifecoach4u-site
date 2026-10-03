@@ -1,6 +1,6 @@
 +++
 title = 'Waarom loopt een gesprek soms zo verkeerd'
-
+description = 'Gesprekken kunnen raar lopen. Je voelt je ondergesneeuwd of niet gehoord. De Roos van Leary kan je inzicht geven in het waarom.'
 summary = 'Je voelde je ondergesneeuwd of de ander ging juist helemaal achterover zitten met een houding van "laat maar gaan". Hoe kan dat? Timothy Leary heeft daar onderzoek naar gedaan, al in 1957.  Hij stelde vast dat gedrag gedrag oproept, het is actie-reactie. Lees hier!'
 date = 2026-09-21T17:54:17+02:00
 draft = false
