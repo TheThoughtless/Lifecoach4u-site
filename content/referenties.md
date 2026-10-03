@@ -1,6 +1,6 @@
 +++
-title = 'Referenties'
-description = 'Lees hier wat klanten over mij zeggen'
+title = 'Ervaringen & Reviews van Coachees'
+description = 'Lees hoe anderen de coaching van Johan Verrips hebben ervaren. Eerlijke reviews over rust, structuur, nieuwe inzichten en concrete resultaten.'
 date = 2026-09-21T17:54:17+02:00
 [[bigimg]]
   src = "images/bos.jpg"

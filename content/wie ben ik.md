@@ -1,6 +1,6 @@
 +++
-title = 'Wie ben ik?'
-description='Ik stel me graag even aan je voor.'
+title = 'Over Coach Johan Verrips | Lifecoach4u Lekkerkerk'
+description='Maak kennis met Johan Verrips, een ervaren coach. Met levenservaring en expertise in ACT & systemisch werk help ik jou om barrières te doorbreken..'
 [[bigimg]]
   src = "images/SelfieLarge cropped.png"
   desc = "Selfie"

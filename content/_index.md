@@ -1,6 +1,6 @@
 +++
 title = "Lifecoach4u | Persoonlijke coaching in de Krimpenerwaard"
-description='Wil jij werk- of levensvragen aanpakken? Bijvoorbeeld omdat je wilt groeien of steeds tegen dezelfde problemen aan loopt? Dan ben je hier op de goede plek. Persoonlijke coaching kan je verder helpen.'
+description='Loop je vast in werk of leven? Ontdek je eigen kracht met persoonlijke coaching in regio Lekkerkerk en Gouda door Johan Verrips. Plan een gratis intake!'
 
 type = "page"
 show_posts = false

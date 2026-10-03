@@ -35,7 +35,6 @@ canonifyURLs = true
 
   [Params.author]
       name = "Johan Verrips"
-      website = "lifecoach4u.nl"
       email = "info@lifecoach4u.nl" 
 
 [[Params.bigimg]]
