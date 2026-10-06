@@ -37,19 +37,18 @@ canonifyURLs = true
   toc = false
   subtitle = 'persoonlijke coaching in de Krimpenerwaard'
   description='Wil jij werk- of levensvragen aanpakken? Bijvoorbeeld omdat je wilt groeien of steeds tegen dezelfde problemen aan loopt? Dan ben je hier op de goede plek. Persoonlijke coaching kan je verder helpen.'
-  logo = '/images/Selfie1.png'
+  logo = '/images/Selfie1.webp'
   showPageDates = false
   hideAuthor = true
   hidePostDates = true
   relativeURLs = true
+  
 
   [Params.author]
       name = "Johan Verrips"
       email = "info@lifecoach4u.nl" 
 
 [[Params.bigimg]]
-  #src = "/images/banner-weg cropped.jpg"
-  #src='/images/tiendweg banner.jpg'
   src='/images/polder.webp'
   desc = "De weg door het leven"
   headerImgStyle = "narrow"
