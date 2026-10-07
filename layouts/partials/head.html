@@ -94,22 +94,59 @@
   </script>
 {{- end }}
 
+  {{- /* Main CSS */ -}}
+{{- $main := resources.Get "css/main.css" -}}
+{{- if $main -}}
+  {{- $main = $main | resources.Minify -}}
+  <link rel="stylesheet" href="{{ $main.RelPermalink }}" />
+{{- else -}}
   <link rel="stylesheet" href="{{ "css/main.css" | relURL }}" />
+{{- end -}}
+
+{{- /* Print CSS */ -}}
+{{- $print := resources.Get "css/print.css" -}}
+{{- if $print -}}
+  {{- $print = $print | resources.Minify -}}
+  <link rel="stylesheet" href="{{ $print.RelPermalink }}" media="print" />
+{{- else -}}
   <link rel="stylesheet" href="{{ "css/print.css" | relURL }}" media="print" />
-  {{- if ne ($.Param "colorScheme" | default "auto") "light" -}}
-  <link rel="stylesheet" href="{{ "css/dark.css" | relURL }}" />
-  {{- end -}}
+{{- end -}}
 
-  {{- if .Site.Params.staticman -}}
-  <link rel="stylesheet" href="{{ "css/staticman.css" | relURL }}" />
-  {{- end -}}
-
-  {{- if .Site.Params.selfHosted -}}
-  <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
+{{- /* Dark Mode CSS */ -}}
+{{- if ne ($.Param "colorScheme" | default "auto") "light" -}}
+  {{- $dark := resources.Get "css/dark.css" -}}
+  {{- if $dark -}}
+    {{- $dark = $dark | resources.Minify -}}
+    <link rel="stylesheet" href="{{ $dark.RelPermalink }}" />
   {{- else -}}
+    <link rel="stylesheet" href="{{ "css/dark.css" | relURL }}" />
+  {{- end -}}
+{{- end -}}
+
+{{- /* Staticman CSS */ -}}
+{{- if .Site.Params.staticman -}}
+  {{- $staticman := resources.Get "css/staticman.css" -}}
+  {{- if $staticman -}}
+    {{- $staticman = $staticman | resources.Minify -}}
+    <link rel="stylesheet" href="{{ $staticman.RelPermalink }}" />
+  {{- else -}}
+    <link rel="stylesheet" href="{{ "css/staticman.css" | relURL }}" />
+  {{- end -}}
+{{- end -}}
+
+{{- /* Fonts CSS / Google Fonts */ -}}
+{{- if .Site.Params.selfHosted -}}
+  {{- $fonts := resources.Get "css/fonts.css" -}}
+  {{- if $fonts -}}
+    {{- $fonts = $fonts | resources.Minify -}}
+    <link rel="stylesheet" href="{{ $fonts.RelPermalink }}" />
+  {{- else -}}
+    <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
+  {{- end -}}
+{{- else -}}
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" />
-  {{- end -}}
+{{- end -}}
 
   {{- if $.Param "useHLJS" }}
   {{- if .Site.Params.selfHosted -}}

@@ -1,0 +1,26 @@
+{{ $bannerParam := .Params.bigimg }}
+{{ if $bannerParam }}
+  {{/* Haal de afbeelding op vanuit de global assets-map */}}
+  {{ $original := resources.Get $bannerParam }}
+  
+  {{ if $original }}
+    {{/* Genereer de drie formaten */}}
+    {{ $small  := $original.Resize "600x webp q85" }}
+    {{ $medium := $original.Resize "1200x webp q85" }}
+    {{ $large  := $original.Resize "1920x webp q85" }}
+
+    <div class="bigimg-container">
+      <img src="{{ $large.RelPermalink }}"
+           srcset="{{ $small.RelPermalink }} 600w, 
+                   {{ $medium.RelPermalink }} 1200w, 
+                   {{ $large.RelPermalink }} 1920w"
+           sizes="100vw"
+           width="{{ $large.Width }}"
+           height="{{ $large.Height }}"
+           alt="{{ .Title }}" 
+           class="banner-image">
+    </div>
+  {{ else }}
+    {{ warnf "Banner niet gevonden: %s" $bannerParam }}
+  {{ end }}
+{{ end }}

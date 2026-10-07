@@ -1,0 +1,8 @@
+{{- $src := .Src -}}
+{{- $original := resources.Get $src -}}
+{{- if $original -}}
+{{- $resized := $original.Resize "1920x webp q85" -}}
+{{- $resized.RelPermalink -}}
+{{- else -}}
+{{- $src | absURL -}}
+{{- end -}}
