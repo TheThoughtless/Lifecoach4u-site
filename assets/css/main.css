@@ -4,7 +4,19 @@
   border: none !important;
   padding: 0px !important;
 }
-[data-theme="light"] .navbar table tr {
+/* voor svg en titel */
+.inline-item {
+  display: flex;
+  align-items: center; /* Zorgt ervoor dat de SVG en tekst netjes vertically gecentreerd staan */
+  gap: 8px;            /* Ruimte tussen de SVG en de tekst */
+}
+
+.inline-item svg {
+  flex-shrink: 0;      /* Zorgt ervoor dat de SVG zijn vaste formaat behoudt op kleine schermen */
+}
+
+
+ .navbar table tr {
     background-color: #F5F5F5 !important;
 }
 [data-theme="dark"] .navbar table tr  {
@@ -15,14 +27,11 @@
 	 background-color: #F5F5F5 !important;
 }
 .content-section {
-	background-color:#FFFFFF;
+	background-color:#FFFFFF !important; 
 }
 
 [data-theme='dark'] .content-section {
 	 background-color: var(--dark-bg) !important;
-}
-[data-theme='light'] .content-section {
-	 background-color: var(--light-bg) !important;
 }
 
 
