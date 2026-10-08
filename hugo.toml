@@ -16,7 +16,7 @@ canonifyURLs = true
     maxAge = "1h"       # Opties: "10m", "24h", "0s" (uitzetten), of "-1" (nooit verlopen)
 [caches.assets]
     dir = ":cacheDir/assets"
-    maxAge = '-1'
+    maxAge = '48h'
     
 [services]
   [services.googleAnalytics]
