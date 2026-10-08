@@ -101,8 +101,8 @@ Wandelen op een rustige plek is een heel prettige manier om met elkaar in gespre
 
 Bij jou thuis, in alle rust,  in jouw omgeving. Of bij mij natuurlijk.
 {{% /split-block %}}
-
-Mijn coaching wordt niet vergoed door de zorgverzekeraar. Dit betekent wel dat je geen verwijsbrief van de huisarts nodig hebt en er geen wachtlijsten zijn. 
+## Wordt coaching vergoed?
+Mijn coaching wordt niet vergoed door de zorgverzekeraar. Dit betekent dan weer wel dat je geen verwijsbrief van de huisarts nodig hebt en er geen wachtlijsten zijn. 
 
 Wist je dat veel werkgevers een budget hebben voor de persoonlijke ontwikkeling en het welzijn van hun medewerkers? Gesprekken in het kader van stresspreventie of loopbaanvragen worden vaak volledig vergoed. Vraag je leidinggevende of HR-afdeling naar de mogelijkheden. Ik maak hiervoor graag een offerte op maat.
 {{% /split-block %}}
