@@ -8,6 +8,7 @@ defaultContentLanguage = "nl"
 enableRobotsTXT = true
 canonifyURLs = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
+math=false
 
 [caches.images]
     dir = ':cacheDir/images'
