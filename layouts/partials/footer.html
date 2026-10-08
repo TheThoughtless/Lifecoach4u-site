@@ -16,6 +16,36 @@
       </div>
     </div>
     {{ end }}
+	<!-- Eenvoudige Cookie Banner -->
+	
+<!-- Sticky Cookie Banner onderaan het scherm -->
+<div id="cookie-banner" class="alert alert-dark text-center mb-0 shadow-lg" role="alert" style="display: none; position: fixed; bottom: 0; left: 0; width: 100%; z-index: 9999; border-radius: 0; border-top: 1px solid rgba(0,0,0,0.1);">
+  <div class="container d-flex flex-column flex-sm-row align-items-center justify-content-center">
+    <span class="mb-2 mb-sm-0 mr-sm-3">
+      Deze website gebruikt cookies om de gebruikerservaring te verbeteren. 
+      <a href="/privacy/" class="alert-link">Meer informatie</a>.
+    </span>
+    <button type="button" id="accept-cookies" class="btn btn-primary btn-sm ml-sm-3">Akkoord</button>
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const cookieBanner = document.getElementById("cookie-banner");
+    const acceptButton = document.getElementById("accept-cookies");
+
+    // Controleer of de gebruiker al akkoord is gegaan
+    if (!localStorage.getItem("cookieAccepted")) {
+      cookieBanner.style.display = "block";
+    }
+
+    // Als er op 'Akkoord' wordt geklikt, sla dit op en verberg de banner
+    acceptButton.addEventListener("click", function() {
+      localStorage.setItem("cookieAccepted", "true");
+      cookieBanner.style.display = "none";
+    });
+  });
+</script>
     <div class="row">
       <div class="col-md-10 offset-md-1">
         <ul class="list-inline text-center footer-links">
