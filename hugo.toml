@@ -11,6 +11,13 @@ canonifyURLs = true
 
 [caches.images]
     dir = ':cacheDir/images'
+ [caches.getresource]
+    dir = ":cacheDir/:project"
+    maxAge = "1h"       # Opties: "10m", "24h", "0s" (uitzetten), of "-1" (nooit verlopen)
+[caches.assets]
+    dir = ":cacheDir/assets"
+    maxAge = '-1'
+    
 [services]
   [services.googleAnalytics]
     id = 'G-9PTWJ10NPR'
