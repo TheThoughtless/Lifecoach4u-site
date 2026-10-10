@@ -51,7 +51,7 @@ math=false
   showPageDates = false
   hideAuthor = true
   hidePostDates = true
-  relativeURLs = true
+  relativeURLs = false
   
 
   [Params.author]

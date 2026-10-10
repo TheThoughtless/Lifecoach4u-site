@@ -4,6 +4,7 @@ description='Pak je levens- en werkvragen aan. Persoonlijke coaching voor groei,
 
 type = "page"
 show_posts = false
+disable = true # Om de pagina te negeren in de sitemap
 +++
 {{% split-block image="images/coaching 3.svg" alt="Lifecoach4u logo" class="rond-plaatje" %}}
 ## Persoonlijke coaching
