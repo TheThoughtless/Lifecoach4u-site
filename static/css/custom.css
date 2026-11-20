@@ -1,0 +1,480 @@
+.post-meta {display:none}
+@media only screen and (min-width: 768px) {
+    .intro-header .page-heading h1, .intro-header, post-heading .h1, .page-heading .h1, .intro-header .tags-heading h1, .intro-header .categories-heading h1, .intro-header .search-heading h1 {
+        font-size: 50px;
+    }
+
+}
+/* --- aanpassingen van mij --- */
+.navbar-brand table tr td{
+  border: none !important;
+  padding: 0px !important;
+}
+/* voor svg en titel */
+.inline-item {
+  display: flex;
+  align-items: center; /* Zorgt ervoor dat de SVG en tekst netjes vertically gecentreerd staan */
+  gap: 8px;            /* Ruimte tussen de SVG en de tekst */
+}
+
+.inline-item svg {
+  flex-shrink: 0;      /* Zorgt ervoor dat de SVG zijn vaste formaat behoudt op kleine schermen */
+}
+
+
+.theme-by {
+	font-size:9px;
+}
+
+[data-theme="dark"] {
+	  --dark-table-odd: #415959 !important;
+}
+[data-theme="light"] {
+	  --table-odd: blue !important;
+}
+
+/* =====================================================
+   BEAUTIFULHUGO
+   PETROL THEME + OPEN SANS
+   Light & Dark mode
+   ===================================================== */
+
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+
+/* =====================================================
+   1. LIGHT THEME – KLEUREN
+   ===================================================== */
+
+:root {
+    color-scheme: light;
+
+    --bg-color: #F7F8F5;
+    --text-color: #354747;
+
+    --link-color: #51b87f; /* #287D7B; */
+    --link-hover-color: #51b87f; /*#195F60;*/
+
+    --navbar-color: #D5E2DD;
+    --navbar-text-color: #354747;
+
+    --footer-color: #E5ECE8;
+    --footer-text-color: #536965;
+
+    --border-color: #D8E2DD;
+
+    --code-bg-color: #EAF0EC;
+    --code-text-color: #354747;
+
+    --blockquote-color: #607875;
+    --blockquote-bg-color: #EDF3EF;
+
+    --accent-color: #4C9990;
+
+    --table-header-bg: #DCE8E2;
+    --table-even-bg: #EEF2EE;
+	--table-odd-bg: #f4f8f4 !important;
+
+    --tag-bg-color: #DCEAE6;
+    --tag-text-color: #287D7B;
+}
+
+
+/* =====================================================
+   2. DARK THEME – KLEUREN
+   ===================================================== */
+
+[data-theme="dark"] {
+    color-scheme: dark;
+
+    --bg-color: #192322;
+    --text-color: #D5E2DE;
+
+    --link-color: #82be9c;/*#91C8BC;*/
+    --link-hover-color: #B4DDD2;
+
+    --navbar-color: #293936;
+    --navbar-text-color: #D5E2DE;
+
+    --footer-color: #293936;
+	--footer-text-color: #B2C6BF;
+
+    --border-color: #40534D;
+
+    --code-bg-color: #2D3C38;
+    --code-text-color: #D5E2DE;
+
+    --blockquote-color: #A4BBB3;
+    --blockquote-bg-color: #293936;
+
+    --accent-color: #78B8AD;
+
+    --table-header-bg: #344642;
+    --table-even-bg: #415851;
+	--table-odd-bg: #3c4d48 !important;
+
+    --tag-bg-color: #344642;
+    --tag-text-color: #91C8BC;
+}
+
+
+/* =====================================================
+   3. ALGEMENE TEKST EN ACHTERGROND
+   ===================================================== */
+
+html,
+body {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color);
+    font-family: 'Open Sans', sans-serif;
+}
+
+body,
+p,
+li,
+span,
+div,
+article,
+section {
+    font-family: 'Open Sans', sans-serif;
+}
+
+p,
+li {
+    color: var(--text-color);
+}
+
+.content-section {
+	background-color: var(--bg-color) !important;
+}
+
+/* =====================================================
+   4. KOPPEN EN TITELS
+   ===================================================== */
+
+h1, h2, h3, h4, h5, h6,
+.post-title,
+.page-title,
+.blog-post-title {
+    color: var(--text-color);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+
+/* =====================================================
+   5. LINKS
+   ===================================================== */
+
+a {
+    color: var(--link-color) !important;
+}
+
+a:hover,
+a:focus {
+    color: var(--link-hover-color) !important;
+}
+
+
+/* =====================================================
+   6. NAVIGATIE
+   ===================================================== */
+
+.navbar-custom {
+    background-color: var(--navbar-color) !important;
+    border-color: var(--border-color) !important;
+}
+
+.navbar-custom .navbar-brand,
+.navbar-custom .nav li a {
+    color: var(--navbar-text-color) !important;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .nav li a:hover {
+    color: var(--link-color);
+}
+
+/* Navigatie bij uitklappen */
+.navbar-custom .navbar-collapse {
+    border-color: var(--border-color);
+}
+
+
+/* =====================================================
+   7. BLOGOVERZICHTEN EN ARTIKELTITELS
+   ===================================================== */
+
+.post-preview,
+.blog-post,
+.post-content {
+    color: var(--text-color);
+}
+
+.post-preview .post-title,
+.post-preview .post-title a,
+.blog-post .post-title {
+    color: var(--text-color);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+.post-preview .post-title a:hover {
+    color: var(--link-color);
+}
+
+
+/* =====================================================
+   8. METADATA EN DATUMS
+   ===================================================== */
+
+.post-meta,
+.post-meta a,
+.blog-post .post-meta {
+    color: var(--blockquote-color);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.post-meta a:hover {
+    color: var(--link-color);
+}
+
+
+/* =====================================================
+   9. ARTIKELINHOUD
+   ===================================================== */
+
+.post-content,
+.post-content p,
+.post-content li {
+    color: var(--text-color) !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.post-content strong,
+.post-content b {
+    color: var(--text-color) !important;
+    font-weight: 700;
+}
+
+.post-content em {
+    color: inherit;
+}
+
+
+/* =====================================================
+   10. TUSSENKOPPEN
+   ===================================================== */
+
+.post-content h1,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+    color: var(--text-color) !important;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+
+/* =====================================================
+   11. CODE EN PROGRAMMEERVOORBEELDEN
+   ===================================================== */
+
+code,
+pre,
+.highlight,
+.highlight pre {
+    background-color: var(--code-bg-color) !important;
+    color: var(--code-text-color) !important;
+    border-color: var(--border-color) !important;
+    font-family: monospace;
+}
+
+.post-content code {
+    background-color: var(--code-bg-color) !important;
+    color: var(--link-hover-color) !important;
+}
+
+
+/* =====================================================
+   12. CITATEN
+   ===================================================== */
+
+blockquote {
+    background-color: var(--blockquote-bg-color) !important;
+    color: var(--blockquote-color) !important;
+    border-left: 4px solid var(--accent-color) !important;
+}
+
+blockquote p {
+    color: var(--blockquote-color) !important;
+}
+
+
+/* =====================================================
+   13. TABELLEN
+   ===================================================== */
+
+table {
+    color: var(--text-color) !important;
+    border-color: var(--border-color) !important;
+
+th {
+    background-color: var(--table-header-bg) !important;
+    color: var(--text-color) !important;
+	border-color: var(--border-color) !important;
+}
+
+td {
+    border-color: var(--border-color) !important;
+    color: var(--text-color) !important;
+}
+
+tr {
+	background-color: var (--bg-color) !important;
+}
+tr:nth-child(even) {
+    background-color: var(--table-even-bg) !important;
+}
+tr:nth-child(odd) {
+    background-color: var(--table-odd-bg) !important;
+}
+
+
+/* =====================================================
+   14. LIJSTEN
+   ===================================================== */
+
+.post-content ul,
+.post-content ol {
+    color: var(--text-color) !important;
+}
+
+.post-content li::marker {
+    color: var(--accent-color) !important;
+}
+
+
+/* =====================================================
+   15. TAGS EN CATEGORIEËN
+   ===================================================== */
+
+.post-tags a,
+.blog-tags a {
+    background-color: var(--tag-bg-color) !important;
+    color: var(--tag-text-color) !important;
+}
+
+.post-tags a:hover,
+.blog-tags a:hover {
+    color: var(--link-hover-color) !important;
+}
+
+
+/* =====================================================
+   16. PAGINERING
+   ===================================================== */
+
+.pagination > li > a,
+.pagination > li > span,
+.pager li > a {
+    background-color: var(--navbar-color);
+    color: var(--link-color);
+    border-color: var(--border-color);
+}
+
+.pagination > li > a:hover,
+.pager li > a:hover {
+    background-color: var(--accent-color);
+    color: #FFFFFF;
+}
+
+
+/* =====================================================
+   17. INHOUDSOPGAVE
+   ===================================================== */
+
+#TableOfContents,
+.table-of-contents {
+    color: var(--text-color) !important;
+}
+
+#TableOfContents a,
+.table-of-contents a {
+    color: var(--link-color) !important;
+}
+
+
+/* =====================================================
+   18. AFBEELDINGEN EN BIJSCHRIFTEN
+   ===================================================== */
+
+figcaption,
+.caption {
+    color: var(--blockquote-color);
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* =====================================================
+   19. FORMULIEREN EN ZOEKVELDEN
+   ===================================================== */
+
+input,
+textarea,
+select,
+.form-control,
+p button {
+    background-color: var(--bg-color) !important;
+    color: var(--text-color);
+    border-color: var(--border-color) !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+    border-color: var(--accent-color) !important;
+}
+
+
+/* =====================================================
+   20. FOOTER
+   ===================================================== */
+
+footer {
+    background-color: var(--footer-color) !important;
+    color: var(--footer-text-color) !important;
+	font-size: 14px;
+}
+
+footer a {
+    color: var(--link-color) !important;
+}
+
+footer a:hover {
+    color: var(--link-hover-color) !important;
+}
+
+
+/* =====================================================
+   21. FOCUS EN TOEGANKELIJKHEID
+   ===================================================== */
+
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+    outline: 2px solid var(--accent-color) !important;
+    outline-offset: 3px;
+}
+
+
+/* =====================================================
+   EINDE PETROL THEME
+   ===================================================== */
