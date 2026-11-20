@@ -5,6 +5,13 @@
     }
 
 }
+
+.page-heading h1 {
+    color: var(--bg-color)!important;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
 /* --- aanpassingen van mij --- */
 .navbar-brand table tr td{
   border: none !important;
